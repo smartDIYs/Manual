@@ -60,7 +60,7 @@ Windowsをお使いの場合、インストール中にデバイスドライバ�
 ## Etcher Laser とPCの接続
 同梱されているUSBケーブルでEtcher LaserとPCを接続します。USBハブなどを使用せず、直接つないでください。
 
-<img src="./images/1.png">
+<img src="./images/software_setup_pc.jpg">
  
 
  
