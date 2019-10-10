@@ -1,9 +1,10 @@
 ## ソフトウェアインストール
 ソフトウェア（SmartDIYs Creator）のインストールを行います。下記リンク先のページからお使いのOSのインストーラをダウンロードしてください。※すでにソフトウェアをインストール済みの方はこの手順をスキップしてください。
 
-- [SmartDIYs Creator](https://www.smartdiys.com/smartdiys-creator/)
 
- ダウンロードしたインストーラを実行します。
+- <a target="_blank" href="https://www.smartdiys.com/smartdiys-creator/">SmartDIYs Creator</a>
+
+ダウンロードしたインストーラをクリックして実行します。
 
 インストール画面が表示されるので、「次へ」ボタンをクリックします。
 
