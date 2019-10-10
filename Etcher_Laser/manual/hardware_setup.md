@@ -25,11 +25,11 @@ Etcher Laser本体の箱を開けます。一番上の梱包材を取り出す�
 
 <img src="./images/hardware_setup_6.jpg">
 
-Etcher Laserのフタと加工ベッド引き出しを固定しているテープ（計4箇所）を取り外します。
+Etcher Laserのドアと加工ベッド引き出しを固定しているテープ（計4箇所）を取り外します。
 
 <img src="./images/hardware_setup_7.jpg">
 
-Etcher Laserのフタを開け、内部の梱包材をすべて取り出します。パーツが入っている梱包材は慎重に取り出してください。
+Etcher Laserのドアを開け、内部の梱包材をすべて取り出します。パーツが入っている梱包材は慎重に取り出してください。
 
 <img src="./images/hardware_setup_8.jpg">
 
@@ -62,7 +62,7 @@ X軸に設置してあるレーザーヘッド固定ユニットに、レーザ�
 <img src="./images/hardware_setup_16.jpg">
 
 
-フタに取り付いているカメラのカバーを外します。カメラレンズには絶対に触らないてください。
+ドアに取り付いているカメラのカバーを外します。カメラレンズには絶対に触らないてください。
 <img src="./images/hardware_setup_17.jpg">
 
 保証サービス時の発送のために、梱包材・ネジ・プレートなどすべて保管してください。
