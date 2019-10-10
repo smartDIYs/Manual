@@ -1,5 +1,5 @@
 Etcher Laserのセットアップを始めます。
-各部品名は写真をご覧ください。
+各部品名は下記画像をご覧ください。
 <img src="./images/parts_1.jpg">
 
 <img src="./images/parts_2.jpg">
@@ -25,7 +25,7 @@ Etcher Laser本体の箱を開けます。一番上の梱包材を取り出す�
 
 <img src="./images/hardware_setup_6.jpg">
 
-Etcher Laserのフタと引き出しを固定しているテープ（計4箇所）を取り外しします。
+Etcher Laserのフタと加工ベッド引き出しを固定しているテープ（計4箇所）を取り外します。
 
 <img src="./images/hardware_setup_7.jpg">
 
