@@ -1,5 +1,5 @@
 ## ソフトウェアインストール
-ソフトウェア（SmartDIYs Creator）のインストールを行います。下記リンク先のページからお使いのOSのインストーラをダウンロードしてください。※すでにソフトウェアをインストール済みの方はこの手順をスキップしてください。
+ソフトウェア（SmartDIYs Creator）のインストールを行います。下記リンク先のページからお使いのOSのインストーラをダウンロードしてください。※すでにソフトウェアをインストール済みの方はこの章をスキップして、<a target="_blank" href="https://www.smartdiys.com/manual/el-first-processing-pc/">初めての加工</a>にお進みください。
 
 
 - <a target="_blank" href="https://www.smartdiys.com/smartdiys-creator/">SmartDIYs Creator</a>
@@ -58,10 +58,7 @@ Windowsをお使いの場合、インストール中にデバイスドライバ�
 
 <img src="./images/win_install_13.png">
 
-## Etcher Laser とPCの接続
-同梱されているUSBケーブルでEtcher LaserとPCを接続します。USBハブなどを使用せず、直接つないでください。
 
-<img src="./images/software_setup_pc.jpg">
  
 
  

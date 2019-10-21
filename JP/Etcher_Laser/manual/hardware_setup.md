@@ -51,13 +51,13 @@ Etcher Laserのドアを開け、内部の梱包材をすべて取り出しま�
 
 <img src="./images/hardware_setup_13.jpg">
 
-X軸に設置してあるレーザーヘッド固定ユニットに、レーザーヘッドを上からスライドさせ、高さ調整用ネジを締めてしっかりと固定します。
+X軸に設置してあるレーザーヘッド固定ユニットに、レーザーヘッドを上からスライドさせ、高さ調整用ネジを締めてしっかりと固定します。レーザーヘッドの位置は後ほど調整するので、写真と同様の位置で固定してください。
 
 <img src="./images/hardware_setup_14.jpg">
 
 <img src="./images/hardware_setup_15.jpg">
 
-レーザーヘッド固定ユニットのケーブルをレーザーヘッドの端子部に接続します。奥までしっかりと差し込んでください。
+レーザーヘッド固定ユニットのケーブルをレーザーヘッドの端子部に接続します。奥までしっかりと差し込んでください。ケーブルの向きにご注意ください。
 
 <img src="./images/hardware_setup_16.jpg">
 
@@ -74,6 +74,8 @@ Etcher Laserの電源スイッチがOFFになっている（◯が押されて�
 
 <img src="./images/hardware_setup_19.jpg">
 
-Etcher Laserの電源スイッチを入れてください。ライトが点灯し、Etcher Laser後方のファンが回転します。
+Etcher Laserの電源スイッチを入れてください（|を押す）。ライトが点灯し、Etcher Laser後方のファンが回転します。
+
+<img src="./images/hardware_setup_21.jpg">
 
 <img src="./images/hardware_setup_20.jpg">
