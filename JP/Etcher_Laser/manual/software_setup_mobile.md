@@ -2,8 +2,13 @@
 
 - [Etcher Laser インストール (App store)](https://www.smartdiys.com)
 
-Etcher Laserとスマートフォンを接続するためにWi-Fiの設定を行います。Etcher Laserの電源が入っていることを確認し、Etcher Laserの背面のシールに記載してある「Wi-Fi Network Name」と「Wi-Fi Password」を確認してください。
+Etcher Laserのアイコンをタップします。
 
-スマートフォンのWi-Fi 設定にて、上記の「Wi-Fi Network Name」に接続します。「Wi-Fi Network Name」をタップし「Wi-Fi Password」を入力してください（Etcher Laserに接続している時はインターネットが使用できないのでご注意ください）。
+画面左上の「Setting」をタップし、「Connection Guide」をタップしてください。
 
-Wi-Fiに接続後、アプリケーションを立ち上げてください。
+Etcher Laserとスマートフォンを接続します。
+ステップ1：Etcher Laserの電源が入っているか確認してください。
+
+ステップ2：「Scan QR Code」をタップし、Etcher Laserの背面に記載してあるQRコードをスキャンします。
+
+ステップ3：「Connect」をタップするとEtcher Laserとスマートフォンが接続されます。

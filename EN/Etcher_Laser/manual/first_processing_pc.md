@@ -23,6 +23,8 @@ Click the “position check” button, and the graphic area of the software will
 
 <img src="./images/first_processing_pc_4.jpg">
 
+<img src="./images/first_processing_pc_16.jpg">
+
 <img src="./images/first_processing_pc_5.jpg">
 
 ## Adjust the height of the laser
@@ -59,7 +61,7 @@ Adjust the design to any size and place it on the material.
 <img src="./images/first_processing_pc_13.jpg">
 
 ## Set parameters and start processing
-Next, set the parameters for the process. Click the item (circle) on the right side of the screen to display the dialog for parameter setting. This time, set 1500 for the speed, 50 for the power, and 1 for the number of processing times. (Please refer to the page [“SmartDIYs Creator ManualParameter settings”](https://manual.smartdiys.cc/smartdiys-creator-parameter-settings/)for further information on the parameters.)
+Next, set the parameters for the process. Click the item (circle) on the right side of the screen to display the dialog for parameter setting. This time, set 1500 for the speed, 50 for the power, and 1 for the number of processing times. (Please refer to the page <a target="_blank" href="https://manual.smartdiys.cc/smartdiys-creator-parameter-settings/">SmartDIYs Creator ManualParameter settings</a> for further information on the parameters.)
 
 
 <img src="./images/first_processing_pc_14.jpg">
@@ -70,4 +72,4 @@ DO NOT leave the device while processing is in progress.
 
 <img src="./images/first_processing_pc_15.jpg">
 
-Further details on the software are in the manuals:[SmartDIYs Creator Manual](https://manual.smartdiys.cc/smartdiys-creator-product-outline/)
+Further details on the software are in the manuals:<a target="_blank" href="https://manual.smartdiys.cc/smartdiys-creator-product-outline/">SmartDIYs Creator</a>

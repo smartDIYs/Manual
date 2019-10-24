@@ -1,33 +1,41 @@
-このたびはEtcher Laserをお買い上げいただきありがとうございます。この章では、仕様に関する注意点や製品のご使用前に確認していただきたいことを説明いたします。
+## Safety Guidelines
+- Laser radiation is dangerous. It can cause fire, burns, or damage to your eyes. Do not turn the power on when the laser head is not facing down. Also, always wear safety glasses when the power is on. Do not look directly at the laser radiation even while wearing the safety glasses.
+- Do not leave the device while it is running. Make sure that you stay around the device so that you are able to detect any issues or problems and to reach the device to pause the process.
+- Do not place the machine on an unstable surface, such as a table that is not level.
+- When the bottom cover is removed and the power is on, place a board under the machine to protect the surface underneath.
+- The laser is class 4 when the bottom cover is removed. Make sure none of your body parts are exposed to laser radiation and always wear safety glasses to protect your eyes.
+- Do not turn the power on until assembly is completed.
+- Keep all of your body parts free of the processing area while the laser is running.
+- Do not leave the machine with the power on. Do not move the machine with the power on. Unplug when moving the machine.
+- Make sure that the materials you are processing do not emit toxic substances when heated.
+- Do not allow moisture around the machine body or the plug.
+- Do not put flammable materials near the machine.
+- Some materials emit smoke and odor when being processed. Ventilate the room or use a dust collector.
+- Do not exceed one hour of continuous use
+- Do not operate in temperatures greater than 30C or 86F.
+- If something is out of the ordinary, stop operation immediately and unplug.
+- For more safety information, refer to the manuals on the website.
 
-## 安全上のご注意
-ご使用前に以下の「安全上のご注意」を必ずお読みの上、正しくご使用ください。
+## Maintenance
+- Maintenance tips are on the website with the other manuals. Please refer to it and clean your machine regularly in order to prolong its lifespan.
+- The laser head is replaceable. You can purchase it on our online shop web page.
 
-- マニュアルに従って加工を行ってください。
-- レーザーから発せられる光は大変危険です。火災、やけど、目の損傷など十分注意してください。
-- レーザー照射部が下以外の方向に向いた状態では、絶対に電源を入れてはいけません。
-- 底部取り外し可能モデルにて底部を取り外して加工する場合は保護メガネを使用してください。また、保護メガネを着用している場合でも、レーザー光を絶対に覗き込んではいけません。
-- レーザー光を照射中に加工エリア内に体の一部を絶対に入れないでください。
-- 電源を入れている間は本製品を放置してはいけません。
-- 電源を入れている間は本製品を移動してはいけません。また、本製品を移動する際は必ず電源は外してください。
-- お子様などが本製品に近づくことがないようにしてください。
-- ご使用に際しては、各種法令やルールを順守してお使いください。
-- 加工する素材に関して、事前に熱での加工により有害物質が発生しないことをご確認ください。
-- 本体および電源部分をぬらさないでください。
-- 素材によっては煙やにおいが発生する場合がございます。十分に換気をする、もしくは集塵機などを使用してください。
-- ネジやナットが緩んだ状態で稼動させないでください。
-- 不安定な場所に加工機を設置しないようにしてください。
-- 異常を感じたら直ちに使用を停止し電源を抜いてください。
+## Product Warranty
+Damages caused by not following the safety guidelines/ manuals/instructions will not be covered under warranty. We also do not bear any responsibility for damages caused by remodeling or modification of the machine.
 
-## 製品保証について
-到着から30日以内に初期不良があった場合、新品交換とさせていただきます。到着から6ヶ月以内に不良が出た場合、欠陥部品の修理または欠陥部品の交換対応とさせていただきます。どちらもお問い合わせいただき、写真・動画で状況を確認後、上記対応とさせていただきます。お客様過失の故障・破損の場合、またはこちらの製品仕様に記載された使用時温度・連続使用時間以外で使用された場合、使用による通常の摩耗は保証対象外とさせていただきます。
+### 30 day warranty
+In the event of initial failure, defects, etc. due to a lack of necessary information from our company or an issue with the machine itself within the first 30 days of receiving your product, we will exchange it for a new one after confirming the status. Just pay shipping and handling.
 
-## 保守部品とその交換について
-消耗品であるレーザーモジュール(使用可能時間: 約5,000~10,000 時間)は、個別にご購入することが可能です。
+### 6 month warranty
+If initial failures or defects occur within the first 6 months of receiving your product, contact support within that time and we will repair or replace the defective parts. Just pay shipping and handling.
+Please note that we cannot take care of any damages other than initial failures.
 
-## 免責事項について
-本製品の使用を理由とする破損・ケガ・事故・火災につきましては、いかなる責任も負いかねますのであらかじめご了承ください。また、当社は以下に記載する損害・ケガ・事故・火災に関して、一切責任を負いません。
+## Disclaimer
+We will not claim responsibility for damages, injuries, accidents, or fires caused by the use of this product. We also will not bear any responsibility for the following:
+- Damages, injuries, accidents, or fires caused by the use of the machine or failures of parts.
+- Damages, injuries, accidents, or fires caused by not following the instructions
+- Damages, injuries, accidents, or fires caused by remodeling or modification of the machine and use alongside software or products not affiliated with smartDIYs.
 
-- 本製品の使用または部品の不良などから生ずる付随的な損害・ケガ・事故・火災
-- 本ページに記載の「安全上のご注意」を守らないことにより生じた損害・ケガ・事故・火災
-- 本製品の改造、または当社が関与しない機器やソフトウェアとの組み合わせが原因で生ずる損害・ケガ・
+## Customer Support
+For any inquiry, reach out to us from the contact form on the official website or email us to support@smartdiys.cc.
+Contact support with a photo or video of the condition of the machine to help the support desk understand the situation in better detail.

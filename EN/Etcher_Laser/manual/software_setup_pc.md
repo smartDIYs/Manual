@@ -3,7 +3,7 @@ This section explains how to install the software (SmartDIYs Creator). Click the
 *Skip this step if you have already installed the software.
 
 
-- <a target="_blank" href="https://www.smartdiys.com/smartdiys-creator/">SmartDIYs Creator</a>
+- <a target="_blank" href="https://www.smartdiys.cc/pages/smartdiys-creator">SmartDIYs Creator</a>
 
 Click the installer and activate.
 
