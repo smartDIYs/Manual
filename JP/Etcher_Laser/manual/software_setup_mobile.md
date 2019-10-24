@@ -7,6 +7,7 @@ Etcher Laserのアイコンをタップします。
 画面左上の「Setting」をタップし、「Connection Guide」をタップしてください。
 
 Etcher Laserとスマートフォンを接続します。
+
 ステップ1：Etcher Laserの電源が入っているか確認してください。
 
 ステップ2：「Scan QR Code」をタップし、Etcher Laserの背面に記載してあるQRコードをスキャンします。
