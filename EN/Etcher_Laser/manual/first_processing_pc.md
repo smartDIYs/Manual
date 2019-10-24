@@ -1,66 +1,73 @@
-セットアップが終了したら素材の加工に入ります。素材を用意してください（後工程で素材の厚みを入力する箇所があるので、あらかじめ素材の厚みをご確認ください）Etcher Laser の電源が入っているか、Etcher Laser とPCがUSBケーブルで接続されているか確認してください。
+When the setup is done, you can start processing materials. Prepare a material you would like to work on. (Measure the thickness of the material because you need to input the thickness of the material in the software later.)
+Check that the Etcher Laser’s power is on.
 
-## ソフトウェア立ち上げ、素材の配置
-ソフトウェアを立ち上げます。 初めてアプリケーションを立ち上げた場合は本体設定などを行うので、画面の指示にしたがってください
+## Connecting the Etcher Laser to PC
+Use the USB cable enclosed with the device to connect the Etcher Laser to your PC. DO NOT use a USB hub and directly connect the devices.
 
-正常に接続されている場合、ソフトウェア左上に「接続済み」と表示されます。
+<img src="./images/software_setup_pc.jpg">
+
+## Launch the software and place the material
+Launch the software and start. When you launch the software for the first time, follow the instructions on the application window to fill in the settings.
+When the Etcher Laser and PC are properly connected, the software will show “Connected” on the top left side of the screen.
 <img src="./images/first_processing_pc_1.jpg">
 
-ソフトウェア画面上部の「原点復帰」をクリックします。すると、レーザーヘッドが原点（左上）に移動します。
+Click the “Origin” on the top of the screen, and the laser head will move to the origin (top left in the work area, default position before it starts processing.)
 
 <img src="./images/first_processing_pc_2.jpg">
 
-ベッドの中央に素材を置きます。このとき、ベッドの周辺にあるカメラの位置調整用のマーク（白黒の四角）を隠さないようにご注意ください。
+Place the material in the center of the work area. When placing the material, DO NOT cover the stickers for positioning (white and black squares) placed around the work area with the material.
 
 <img src="./images/first_processing_pc_3.jpg">
 
-「位置確認」をクリックします。ソフトウェアのグラフィックエリアにレーザーヘッドのイラストが表示され、このイラストをドラッグすることで、レーザーヘッドを任意の位置に移動させることができます。この機能を使い、レーザーヘッドを素材の真上に移動させます。
+Click the “position check” button, and the graphic area of the software will show the image of the laser head. By dragging the image to a spot, you can move the laser head. Use this function to move the laser head so it is above the material.
 
 <img src="./images/first_processing_pc_4.jpg">
 
 <img src="./images/first_processing_pc_5.jpg">
 
-## レーザーヘッドの高さ調整
-レーザーヘッドの高さ調整を行います。Etcher Laserで加工を行う際、レンズの焦点距離と素材の位置を合わせる必要があるため高さ調整を行わなくてはなりません。
-梱包材から高さ調整用治具を取り出し素材の上に配置します。
+## Adjust the height of the laser
+Next, adjust the height of the laser. When you process a material with the Etcher Laser, you need to adjust the height to set the focal length depending on the thickness of the material.
+Take out the height adjustment jig from the box and place it on the material.
 
 <img src="./images/hardware_setup_11.jpg">
 
 <img src="./images/first_processing_pc_6.jpg">
 
-高さ調整用ネジを緩めレーザーヘッドを上下にスライドさせ、高さ調整用治具と接触させます。
+Loosen the screw for height adjustment on the laser head, and slide the laser vertically until the bottom part of the laser head touches the height adjustment jig.
 <img src="./images/first_processing_pc_7.jpg">
 
 <img src="./images/first_processing_pc_8.png">
 
-高さ調整用ネジを締め、固定します。「位置確認」をもう一度クリックし解除、「原点復帰」をクリックしレーザーヘッドを原点に移動させてください。
+When the height is adjusted, tighten the screw to set the position of the laser head. After that, click the “position check” button again to cancel the position check mode, and click the “Origin” button again to move the laser head to the original position.
 
-## データの読み込み、位置合わせ
-「アイテムを追加」をクリックし、データの読み込みを行います。
-データの読み込み方法や種類はいくつかありますが、今回はアセットカタログ → shape → 円を選択し、インポートをクリックしてください。グラフィックエリアに円が配置されます。
+## Import data and check the positioning
+Click the “Add Item” button to import your data. There are several ways to import data and different types of data, but for this example, select the asset data we provide for users. Click “Asset” on the right, select the “shape” tab, and select a circle. Click the “Import” button to place the shape in the graphic area of the software.
 
 <img src="./images/first_processing_pc_9.jpg">
 
 <img src="./images/first_processing_pc_10.jpg">
 
-カメラアイコンをクリックすると、素材の厚みを入力するダイアログが表示されます。数値を入力しOKをクリックすると、グラフィックエリアに素材が表示されます。ドアが閉まっていたりレーザーヘッドが原点に配置されていない場合は正しく表示されません（カメラの位置合わせ用のシールが画面に写っていない場合が正常です）。
+Click the camera icon, the dialog to input the thickness of the material will appear. After you input the number and click the “OK” button, the graphics area will display the material.
+If the lid is closed and/or the laser head is not positioned on the origin before this step, the material will not appear on the screen properly. The stickers for positioning should not be on the screen. If the stickers are there, redo the step to capture the material by the camera.
 
 <img src="./images/first_processing_pc_11.jpg">
 
 <img src="./images/first_processing_pc_12.jpg">
 
-デザインを任意の大きさに調整し、素材の上に配置します。
+Adjust the design to any size and place it on the material.
 
 <img src="./images/first_processing_pc_13.jpg">
 
-## パラメータ設定、加工開始
-パラメータの設定をします。ソフトウェア画面右のアイテム（円）をクリックすると、パラメータ設定ダイアログが表示されます。今回は、スピードを1500、パワーを50、回数を1に設定します（パラメータの詳しい説明は、[SmartDIYs Creator マニュアル パラメータ設定](https://www.smartdiys.com/manual/smartdiys-creator-parameter/)をご覧ください）。
+## Set parameters and start processing
+Next, set the parameters for the process. Click the item (circle) on the right side of the screen to display the dialog for parameter setting. This time, set 1500 for the speed, 50 for the power, and 1 for the number of processing times. (Please refer to the page [“SmartDIYs Creator ManualParameter settings”](https://manual.smartdiys.cc/smartdiys-creator-parameter-settings/)for further information on the parameters.)
+
 
 <img src="./images/first_processing_pc_14.jpg">
 
-Etcher Laserのドアをしめ、スタートをクリックします。表示された注意内容を確認後、OKをクリックしてください。加工が開始されます。加工中は必ずEtcher Laserのそばから離れないでください。
-※ドアが開いている状態で加工が開始された場合、レーザーヘッドは動きますが、レーザーは照射されません。
+After that, close the lid of the Etcher Laser and click the “START” button. A dialog with precautions will appear, so confirm and click the “OK” button to proceed.
+DO NOT leave the device while processing is in progress.
+*If you start processing while the lid is open, the laser head will move but the laser will not irradiate.
 
 <img src="./images/first_processing_pc_15.jpg">
 
-ソフトウェアの詳しい説明は、[SmartDIYs Creator マニュアル](https://www.smartdiys.com/manual/smartdiys-creator-about/)をご覧ください。
+Further details on the software are in the manuals:[SmartDIYs Creator Manual](https://manual.smartdiys.cc/smartdiys-creator-product-outline/)

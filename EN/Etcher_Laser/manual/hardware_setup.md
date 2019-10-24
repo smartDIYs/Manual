@@ -1,39 +1,38 @@
-Etcher Laserのセットアップを始めます。
-各部品名は下記画像をご覧ください。
+Let’s start setting up your Etcher Laser. Please refer to the pictures below for the name of each part.
 <img src="./images/parts_1.jpg">
 
 <img src="./images/parts_2.jpg">
 
-## 荷物の開梱と本体の準備
-荷物は本体が1箱、オプションが1〜3箱で到着します。
+## Unpacking and setting up the device
+There will be one box for the main device and 1 - 3 boxes for accessories (optional).
 
 <img src="./images/hardware_setup_1.jpg">
 
-Etcher Laser本体の箱を開けます。一番上の梱包材を取り出すとEtcher Laser本体が入っています。
+Open the box of the Etcher Laser’s main device. Remove the packing material on top and you will see the main unit.
 
 <img src="./images/hardware_setup_2.jpg">
 
 <img src="./images/hardware_setup_3.jpg">
 
-箱から慎重にEtcher Laserを取り出し、平で水平な場所に設置します。このとき、Etcher Laserの背面の排気口を塞がないよう、壁から20cm以上離してください。
+Carefully remove the device from the box and place it on a flat and level surface. Please make sure that nothing is blocking the exhaust fan on the back side of the device and keep the main unit at least 7inch away from anything behind the device (walls, etc.).
 
 <img src="./images/hardware_setup_4.jpg">
 
 <img src="./images/hardware_setup_5.jpg">
 
-箱の一番下の梱包材にACケーブル、USBケーブル、ACアダプタが入っているので取り出してください。
+Take out the AC Cable, USB Cable, and AC Adapter from the bottom packing material in the box.
 
 <img src="./images/hardware_setup_6.jpg">
 
-Etcher Laserのドアと加工ベッド引き出しを固定しているテープ（計4箇所）を取り外します。
+Remove the tape that is sealing the lid and the bottom cover of the Etcher Laser (4 pieces).
 
 <img src="./images/hardware_setup_7.jpg">
 
-Etcher Laserのドアを開け、内部の梱包材をすべて取り出します。パーツが入っている梱包材は慎重に取り出してください。
+Open the lid of the Etcher Laser and remove all the packing material inside the device. Please be careful to not damage the parts inside the packing material.
 
 <img src="./images/hardware_setup_8.jpg">
 
-フレームを固定しているネジ・プレートを取り外します。X軸の2つの赤ネジと黒色のプレート、左右のY軸の赤ネジを取り外してください。
+Remove the screws and plate that are holding the frames in place. There are 2 red screws on the X-axis (on the black plate) and 2 red screws on the Y-axis (right and left sides).
 
 <img src="./images/hardware_setup_9.jpg">
 
@@ -41,39 +40,39 @@ Etcher Laserのドアを開け、内部の梱包材をすべて取り出しま�
 
 <img src="./images/hardware_setup_9-1.jpg">
 
-梱包材からレーザーヘッドを取り出してください。この時、レーザーヘッド底部のレンズには絶対に触らないでください。
+Take out the laser head from the packing material. DO NOT touch the lens on the bottom of the laser head when taking it out.
 
 <img src="./images/hardware_setup_11.jpg">
 
 <img src="./images/hardware_setup_12.jpg">
 
-レーザーヘッドの左側についている高さ調整用ネジを緩めます（ネジとレーザーヘッドの隙間が2mmほどあく程度）。
+Loosen the screw for laser head height adjustment located on the left side of the laser head. Loosen it until the distance between the laser head and the screw is approximately 2mm.
 
 <img src="./images/hardware_setup_13.jpg">
 
-X軸に設置してあるレーザーヘッド固定ユニットに、レーザーヘッドを上からスライドさせ、高さ調整用ネジを締めてしっかりと固定します。
+Slide the laser head from the top to the bottom of the Laser Head Fixing Unit on the X-axis, and set the position firmly by tightening the screw for height adjustment.
 
 <img src="./images/hardware_setup_14.jpg">
 
 <img src="./images/hardware_setup_15.jpg">
 
-レーザーヘッド固定ユニットのケーブルをレーザーヘッドの端子部に接続します。奥までしっかりと差し込んでください。
+Connect the connector part of the laser head fixing unit to the terminal part of the laser head. Insert the connector firmly.
 
 <img src="./images/hardware_setup_16.jpg">
 
 
-ドアに取り付いているカメラのカバーを外します。カメラレンズには絶対に触らないてください。
+Remove the cover of the camera on the inner wall of the lid. DO NOT touch the lens of the camera.
 <img src="./images/hardware_setup_17.jpg">
 
-保証サービス時の発送のために、梱包材・ネジ・プレートなどすべて保管してください。
+For any occasion that you need to send your device to smartDIYs Inc. to get warranty service from us, please keep all the items sent together with the devices (boxes, packing materials, screws, plates, etc).
 
-## 電源接続
-Etcher Laserの電源スイッチがOFFになっている（◯が押されている）ことを確認し、ACケーブルとACアダプタを接続してください。その後、ケーブルをEtcher Laserとコンセントに接続します。
+## Connecting the power supply
+After confirming that the power of the Etcher Laser is switched off (the power switch’s ◯ part is pressed), connect the AC cable and AC adapter. After that, connect each end of the cable to the Etcher Laser and an electrical outlet.
 
 <img src="./images/hardware_setup_18.jpg">
 
 <img src="./images/hardware_setup_19.jpg">
 
-Etcher Laserの電源スイッチを入れてください。ライトが点灯し、Etcher Laser後方のファンが回転します。
+Turn on the Etcher Laser’s power switch. When it is properly turned on, the light will turn on and the exhaust fan on the backside of the device will start to run.
 
 <img src="./images/hardware_setup_20.jpg">

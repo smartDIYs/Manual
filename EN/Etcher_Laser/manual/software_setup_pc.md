@@ -1,67 +1,66 @@
-## ソフトウェアインストール
-ソフトウェア（SmartDIYs Creator）のインストールを行います。下記リンク先のページからお使いのOSのインストーラをダウンロードしてください。※すでにソフトウェアをインストール済みの方はこの手順をスキップしてください。
+## Installing the software
+This section explains how to install the software (SmartDIYs Creator). Click the link below and download the installer for your OS.
+*Skip this step if you have already installed the software.
 
 
 - <a target="_blank" href="https://www.smartdiys.com/smartdiys-creator/">SmartDIYs Creator</a>
 
-ダウンロードしたインストーラをクリックして実行します。
+Click the installer and activate.
 
-インストール画面が表示されるので、「次へ」ボタンをクリックします。
+When the window for setup appears, click the “Next” button to start the installation.
 
 <img src="./images/win_install_1.png">
 
-SmartDIYs Creatorが既にインストールされているか確認します。既にインストールされている場合はアンインストールされます。
+The installer will check whether SmartDIYs Creator is already installed. If it is already installed, it will automatically uninstall.
 
 <img src="./images/win_install_2.png">
 
-チェックが完了したら、「次へ」ボタンをクリックします。
+When it has finished checking, click “Next” to move on.
 
 <img src="./images/win_install_3.png">
 
-インストール先フォルダを指定します。特に変更がなければそのまま「次へ」ボタンをクリックします。
+Select the folder to install the software. If you don’t need or want to change the folder from the default, click “Next” to move on.
 
 <img src="./images/win_install_4.png">
 
-ドライバのインストール状況を確認します。※PC環境によっては少し時間がかかる場合があります。
+The installer will check the status of the installation.
+*It might take time to check depending on your PC.
 
 <img src="./images/win_install_5.png">
 
 <img src="./images/win_install_6.png">
 
-チェックが完了したら、「次へ」ボタンをクリックします。
+When the checking is complete, click “Next” to move on.
 
 <img src="./images/win_install_7.png">
 
-インストールするコンポーネントが表示されます。全てにチェックが入っていることを確認し、「次へ」ボタンをクリックします。
+The window will show the components that are going to be installed. Make sure all the checkboxes are ticked, and click “Next” to proceed.
 
 <img src="./images/win_install_8.png">
 
-表示されるライセンス条項をご確認頂き、同意される場合は「ライセンスに同意する」にチェックを入れ、「次へ」ボタンをクリックします。※ライセンスに同意されない場合はインストールを完了することはできません。
+Confirm the displayed license terms, and if you agree, check "I accept the license" and click "Next" to proceed.
+*If you do not accept the license, you can not complete the installation.
 
 <img src="./images/win_install_9.png">
 
-インストールボタンをクリックすると、インストールが始まります。
+Click the Install button to begin the installation.
 
 <img src="./images/win_install_10.png">
 
-Windowsをお使いの場合、インストール中にデバイスドライバのインストールが開始されますので、「次へ」をクリックしてインストールを行います。
+If you are using Windows, the installation of the device driver will start during installation, so click “Next” to install.
 
 <img src="./images/win_install_11.png">
 
 <img src="./images/win_install_12.png">
 
-デバイスドライバのインストールが完了したら、「完了」ボタンをクリックします。
+When the device driver installation is complete, click "Finish”.
 
 <img src="./images/win_install_12.png">
 
-インストール完了画面が表示されるので、「完了」ボタンをクリックします。このとき「Run Application」にチェックが入っている場合は、自動的にソフトウェアが起動します。
+The window will show the installation is complete, so click "Finish". If "Run Application" is checked at this time, SmartDIYs Creator will open automatically.
 
 <img src="./images/win_install_13.png">
 
-## Etcher Laser とPCの接続
-同梱されているUSBケーブルでEtcher LaserとPCを接続します。USBハブなどを使用せず、直接つないでください。
-
-<img src="./images/software_setup_pc.jpg">
  
 
  
