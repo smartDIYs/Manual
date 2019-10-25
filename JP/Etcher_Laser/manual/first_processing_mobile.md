@@ -2,7 +2,6 @@
 
 ## プロジェクトの作成・素材の配置
 アプリの「Add Project」か画面下部の+アイコンをタップしてください。
-
 <img src="./images/first_processing_mobile_1.jpg">
 
 プロジェクトが作成され、グラフィックエリアが表示されます。
@@ -11,17 +10,13 @@
 <img src="./images/first_processing_mobile_3.jpg">
 <img src="./images/first_processing_mobile_4.jpg">
 
-
-
 加工ベッドの中央に素材を置きます。このとき、ベッドの周辺にあるカメラの位置調整用のマーク（白黒の四角）を隠さないようにご注意ください。
 <img src="./images/first_processing_pc_3.jpg">
-
 
 アプリ画面のレーザーヘッドのアイコンをドラッグし「Move」をタップすることで、レーザーヘッドを任意の位置に移動させることができます。この機能を使い、レーザーヘッドを素材の真上に移動させます。位置の調整が終了したら「Close」をタップしてください。
 <img src="./images/first_processing_mobile_5.jpg">
 <img src="./images/first_processing_mobile_6.jpg">
 <img src="./images/first_processing_pc_5.jpg">
-
 
 ## レーザーヘッドの高さ調整
 レーザーヘッドの高さ調整を行います。Etcher Laserで加工を行う際、レンズの焦点距離と素材の位置を合わせる必要があるため高さ調整を行わなくてはなりません。
@@ -52,7 +47,6 @@
 <img src="./images/first_processing_mobile_13.jpg">
 <img src="./images/first_processing_mobile_14.jpg">
 
-
 ## パラメータ設定、加工開始
 パラメータの設定をします。アプリ画面下部のアイテム（丸）をタップすると、パラメータ設定ダイアログが表示されます。今回は、スピードを1500、パワーを50、回数を1に設定します（パラメータの詳しい説明は、[SmartDIYs Creator マニュアル パラメータ設定](https://www.smartdiys.com/manual/smartdiys-creator-parameter/)をご覧ください）。
 <img src="./images/first_processing_mobile_15.jpg">
@@ -66,6 +60,5 @@ Etcher Laserの右下、ボタンが緑色に点滅します。そのボタン�
 <img src="./images/first_processing_mobile_18.jpg">
 <img src="./images/first_processing_mobile_19.jpg">
 <img src="./images/first_processing_pc_15.jpg">
-
 
 ソフトウェアの詳しい説明は、[SmartDIYs Creator マニュアル](https://www.smartdiys.com/manual/smartdiys-creator-about/)をご覧ください。
