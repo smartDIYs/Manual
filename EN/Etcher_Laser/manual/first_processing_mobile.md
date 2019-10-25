@@ -31,7 +31,7 @@ Tap on a menu on the top right on the screen and tap on “Origin” to move the
 <img src="./images/first_processing_mobile_20.jpg">
 
 ## Import data and check positioning
-Next, tap on the “+” icon on the bottom left in the screen to import your data. There are several ways to import data and different types of data, but for this example, tap on “From Assets” and select star shape. Then the star shape you selected will appear in the graphic area.
+Next, tap on the “+” icon on the bottom left in the screen to import your data. There are several ways to import data and different types of data, but for this example, tap on “From Assets” and select circle shape. Then the circle shape you selected will appear in the graphic area.
 <img src="./images/first_processing_mobile_7.jpg">
 <img src="./images/first_processing_mobile_8.jpg">
 <img src="./images/first_processing_mobile_9.jpg">
@@ -42,12 +42,12 @@ If the lid is open and/or the laser head is not positioned on the origin before 
 <img src="./images/first_processing_mobile_11.jpg">
 <img src="./images/first_processing_mobile_12.jpg">
 
-Adjust the size of the design and place it on the material. You can adjust the postion of the design when you tap on the star shape and drag it to a position, and also you can change the size and the angle by dragging the arrow mark. Plus, you can zoom in/out the display area by pinching in/out the graphic area.
+Adjust the size of the design and place it on the material. You can adjust the postion of the design when you tap on the circle shape and drag it to a position, and also you can change the size and the angle by dragging the arrow mark. Plus, you can zoom in/out the display area by pinching in/out the graphic area.
 <img src="./images/first_processing_mobile_13.jpg">
 <img src="./images/first_processing_mobile_14.jpg">
 
 ## Set parameters and start processing
-Next, set the parameters for the process. Tap on the item (star shape) in the bottom area of the screen to display the dialog for parameter setting. This time, set 1500 for the speed, 50 for the power, and 1 for the number of processing times. (Please refer to the page <a target="_blank" href="https://manual.smartdiys.cc/smartdiys-creator-parameter-settings/">“SmartDIYs Creator ManualParameter settings” </a>for further information on the parameters.)
+Next, set the parameters for the process. Tap on the item (circle shape) in the bottom area of the screen to display the dialog for parameter setting. This time, set 1500 for the speed, 50 for the power, and 1 for the number of processing times. (Please refer to the page <a target="_blank" href="https://manual.smartdiys.cc/smartdiys-creator-parameter-settings/">“SmartDIYs Creator ManualParameter settings” </a>for further information on the parameters.)
 
 After that, close the lid of the Etcher Laser and tap on the “START” button. A dialog with the estimated processing time will appear, so confirm and click the “OK” button to proceed.
 <img src="./images/first_processing_mobile_16.jpg">
