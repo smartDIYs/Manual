@@ -1,9 +1,15 @@
-アプリケーション（Etcher Laser）をダウンロードします。下記リンクからダウンロードをしてください。
+Firstly, download the application (Etcher Laser). Click the link below to download it.
 
-- [Etcher Laser インストール (App store)](https://www.smartdiys.com)
+- [Etcher Laser Installation (App store)](https://www.smartdiys.com)
 
-Etcher Laserとスマートフォンを接続するためにWi-Fiの設定を行います。Etcher Laserの電源が入っていることを確認し、Etcher Laserの背面のシールに記載してある「Wi-Fi Network Name」と「Wi-Fi Password」を確認してください。
+Next, tap the icon of the app “Etcher Laser”.
 
-スマートフォンのWi-Fi 設定にて、上記の「Wi-Fi Network Name」に接続します。「Wi-Fi Network Name」をタップし「Wi-Fi Password」を入力してください（Etcher Laserに接続している時はインターネットが使用できないのでご注意ください）。
+Tap the “Setting” icon on the top left of the screen, and select “Connection Guide” to proceed.
 
-Wi-Fiに接続後、アプリケーションを立ち上げてください。
+Next, connect the Etcher Laser app to your smartphone or your tablet.
+
+Step1: Make sure the Etcher Laser device’s power is turned on.
+
+Step2: Select “Scan QR Code” and scan the QR code on the backside of the Etcher Laser device.
+
+Step3:  Tap “Connect” and connect the Etcher Laser device to the smartphone/ tablet.

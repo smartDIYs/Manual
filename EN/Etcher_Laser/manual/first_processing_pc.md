@@ -56,7 +56,7 @@ If the lid is closed and/or the laser head is not positioned on the origin befor
 
 <img src="./images/first_processing_pc_12.jpg">
 
-Adjust the design to any size and place it on the material.
+Adjust the size of the design and place it on the material.
 
 <img src="./images/first_processing_pc_13.jpg">
 
