@@ -19,11 +19,9 @@
 
 ベッドの中央に素材を置きます。このとき、ベッドの周辺にあるカメラの位置調整用のマーク（白黒の四角）を隠さないようにご注意ください。
 
-<img src="./images/first_processing_pc_3.jpg">
+<img src="./images/first_processing_pc_5.jpg">
 
 「位置確認」をクリックします。ソフトウェアのグラフィックエリアにレーザーヘッドのイラストが表示され、このイラストをドラッグすることで、レーザーヘッドを任意の位置に移動させることができます。この機能を使い、レーザーヘッドを素材の真上に移動させます。
-
-<img src="./images/first_processing_pc_5.jpg">
 
 <img src="./images/first_processing_pc_6.jpg">
 
