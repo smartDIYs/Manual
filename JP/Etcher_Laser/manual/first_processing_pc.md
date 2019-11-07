@@ -1,5 +1,10 @@
-セットアップが終了したら素材の加工に入ります。素材を用意してください（後工程で素材の厚みを入力する箇所があるので、あらかじめ素材の厚みをご確認ください）。Etcher Laser の電源が入っているか確認してください。
+セットアップが終了したら素材の加工に入ります。
+<div class="iframe-content">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Z1rQ01iXFN0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
+## 素材の用意
+素材を用意してください。後工程で素材の厚みを入力する箇所があるので、あらかじめ素材の厚みをご確認ください。
 <img src="./images/first_processing_pc_1.jpg">
 
 ## Etcher Laser とPCの接続
@@ -8,6 +13,7 @@
 <img src="./images/software_setup_pc.jpg">
 
 ## ソフトウェア立ち上げ、素材の配置
+Etcher Laser の電源が入っているか確認してください。
 ソフトウェアを立ち上げます。 初めてアプリケーションを立ち上げた場合は本体設定などを行うので、画面の指示にしたがってください。また、設定済みの方は今一度、設定→ユーザ設定→モデル名 Etcher Laserに設定してあるか、またレーザータイプを確認してください。
 
 正常に接続されている場合、ソフトウェア左上に「接続済み」と表示されます。

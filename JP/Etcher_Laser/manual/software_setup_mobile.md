@@ -1,12 +1,20 @@
-アプリケーション（Etcher Laser）をダウンロードします。下記リンクからダウンロードをしてください。
+アプリケーションをダウンロードし、Etcher Laserと接続します。
 
-- [Etcher Laser インストール (App store)](https://www.smartdiys.com)
+<div class="iframe-content">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jC2mrObYGyA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
+## アプリケーションダウンロード
+下記リンクからダウンロードをしてください。
+
+Etcher Laser インストール (App store)　11月11〜15日リリース予定
+
+## Etcher Laserとスマートフォンの接続
 Etcher Laserのアイコンをタップします。
 
 <img src="./images/software_setup_mobile_1.png">
 
-Etcher Laserとスマートフォンを接続します。
+
 画面左上の「Setting」をタップし、「Connection Guide」をタップしてください。
 
 <img src="./images/software_setup_mobile_2.jpg">
