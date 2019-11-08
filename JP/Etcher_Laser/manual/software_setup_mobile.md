@@ -15,22 +15,27 @@ Etcher Laserのアイコンをタップします。
 <img src="./images/software_setup_mobile_1.png">
 
 
-画面左上の「Setting」をタップし、「Connection Guide」をタップしてください。
-
+アプリ画面左上の「設定」をタップし、「接続ガイド」をタップしてください。
 <img src="./images/software_setup_mobile_2.jpg">
-
 <img src="./images/software_setup_mobile_3.jpg">
 
-ステップ1：Etcher Laserの電源が入っているか確認してください。
+
+Etcher Laserの電源がをオンにします。
+（左にスワイプして次の手順に進みます）
+
 <img src="./images/software_setup_mobile_4.jpg">
+
+
+「QRコードをスキャン」をタップし、Etcher Laserの背面に記載してあるQRコードをスキャンします。
 <img src="./images/software_setup_mobile_5.jpg">
-
-ステップ2：「Scan QR Code」をタップし、Etcher Laserの背面に記載してあるQRコードをスキャンします。
 <img src="./images/software_setup_mobile_6.jpg">
-<img src="./images/software_setup_mobile_7.jpg">
 
-ステップ3：「Connect」をタップするとEtcher Laserとスマートフォンが接続されます。
+アプリ画面の指示に従い進めてください。
+
+<img src="./images/software_setup_mobile_7.jpg">
 <img src="./images/software_setup_mobile_8.jpg">
+
+「接続」をタップし、加工機を選択するとEtcher Laserとスマートフォンが接続されます。
 <img src="./images/software_setup_mobile_9.jpg">
 <img src="./images/software_setup_mobile_10.jpg">
 <img src="./images/software_setup_mobile_11.jpg">
