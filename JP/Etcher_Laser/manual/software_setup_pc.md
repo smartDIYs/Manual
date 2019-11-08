@@ -1,8 +1,6 @@
 ## ソフトウェアインストール
-ソフトウェア（SmartDIYs Creator）のインストールを行います。下記リンク先のページからお使いのOSのインストーラをダウンロードしてください。※すでにソフトウェアをインストール済みの方はこの章をスキップして、<a target="_blank" href="https://www.smartdiys.com/manual/el-first-processing-pc/">初めての加工</a>にお進みください。
+ソフトウェア（SmartDIYs Creator）のインストールを行います。<a target="_blank" href="https://www.smartdiys.com/smartdiys-creator/">SmartDIYs Creator</a>のページからお使いのOSのインストーラをダウンロードしてください。※Etcher Laserに対応したソフトウェアのバージョンは1.1.0以上のバージョンです。※すでにソフトウェアをインストール済みの方はこの章をスキップして、<a target="_blank" href="https://www.smartdiys.com/manual/el-first-processing-pc/">初めての加工</a>にお進みください。
 
-
-- <a target="_blank" href="https://www.smartdiys.com/smartdiys-creator/">SmartDIYs Creator</a>
 
 ダウンロードしたインストーラをクリックして実行します。
 
