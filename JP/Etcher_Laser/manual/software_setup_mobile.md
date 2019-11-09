@@ -1,4 +1,4 @@
-アプリケーションをダウンロードし、Etcher Laserと接続します。
+アプリケーションをダウンロードし、Etcher Laserと接続します。EtcherLaserと接続している間は、インターネットに接続できません。
 
 <div class="iframe-content">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jC2mrObYGyA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -39,3 +39,23 @@ Etcher Laserの電源がをオンにします。
 <img src="./images/software_setup_mobile_9.jpg">
 <img src="./images/software_setup_mobile_10.jpg">
 <img src="./images/software_setup_mobile_11.jpg">
+
+
+## STAモードの設定モード
+ここから説明する設定は基本的には必要ありませんが、Wi-Fiルータを導入している方はEtcherLaserにLAN経由でアクセスすることができます（STAモード）。
+
+- EtcherLaserの操作中もインターネットに接続したい
+- 直接接続だとEtcherLaserとの接続が不安定
+
+といった場合に、設定してください。
+
+### Wi-Fiルータについて
+EtcherLaserは2.4GHzのみ対応しております。ルータに接続する場合は2.4GHzに接続してください（多くの場合、SSIDに"G"や"B"などの文字が入ります）。
+
+### 設定方法
+
+1. EtcherLaserと接続し、設定画面の「Wi-Fi」をクリックします。
+2. お使いのルータのWi-FiのSSIDおよびパスワードを設定します。お間違いのないよう注意してください。
+3. 「書き込み」をクリックします。
+4. EtcherLaserを再起動します。
+<img src="./images/software_setup_mobile_12.jpg">
