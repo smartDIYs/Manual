@@ -41,7 +41,7 @@ Etcher Laserの電源がをオンにします。
 <img src="./images/software_setup_mobile_11.jpg">
 
 
-## STAモードの設定モード
+## STAモードでの接続
 ここから説明する設定は基本的には必要ありませんが、Wi-Fiルータを導入している方はEtcherLaserにLAN経由でアクセスすることができます（STAモード）。
 
 - EtcherLaserの操作中もインターネットに接続したい
