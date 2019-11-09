@@ -1,4 +1,4 @@
-アプリケーションをダウンロードし、Etcher Laserと接続します。EtcherLaserと接続している間は、インターネットに接続できません。
+アプリケーションをダウンロードし、Etcher Laserと接続します。EtcherLaserを接続している間はインターネットに接続できません。
 
 <div class="iframe-content">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jC2mrObYGyA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
