@@ -1,4 +1,6 @@
 セットアップが終了したら素材の加工に入ります。
+下記手順が上手くいかない場合は<a target="_blank" href="https://support.smartdiys.com/hc/ja/sections/360000529552">トラブルシューティング</a>をご確認ください。
+
 <div class="iframe-content">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rd3ESCfDGqQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
