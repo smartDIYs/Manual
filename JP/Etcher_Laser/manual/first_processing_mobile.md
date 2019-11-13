@@ -43,7 +43,13 @@
 <img src="./images/first_processing_pc_10.jpg">
 <img src="./images/first_processing_pc_8.png">
 
-高さ調整が終了したら、アプリ画面の「閉じる」をタップしてください。
+レーザヘッドが傾かないよう、レーザヘッドの上部をレーザヘッド固定ユニットに密着させながら高さ調整ネジを閉めてください。レーザヘッドに傾きがある場合、加工位置のズレの原因となります。
+
+<img src="./images/first_processing_pc_21.jpg">
+
+<img src="./images/first_processing_pc_22.gif">
+
+高さ調整が終了後、アプリ画面の「閉じる」をタップしてください。
 
 ## データの読み込み、位置合わせ
 データの読み込みを行います。アプリ画面左下の+をタップしてください。
