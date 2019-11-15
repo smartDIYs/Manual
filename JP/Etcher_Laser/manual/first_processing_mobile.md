@@ -94,4 +94,4 @@ Etcher Laserの右下、ボタンが緑色に点滅します。そのボタン�
 
 <img src="./images/first_processing_pc_20.jpg">
 
-アプリケーションの詳しい説明は、アプリケーション マニュアル（11月11日以降公開予定）をご覧ください。
+アプリケーションの詳しい説明は、[Etcher Laserアプリ マニュアル](https://www.smartdiys.com/manual/el-mobile-about/)をご覧ください。
