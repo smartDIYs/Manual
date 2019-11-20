@@ -20,7 +20,7 @@ Etcher Laserのアイコンをタップします。
 <img src="./images/software_setup_mobile_3.jpg">
 
 
-Etcher Laserの電源がをオンにします。
+Etcher Laserの電源をオンにします。
 （左にスワイプして次の手順に進みます）
 
 <img src="./images/software_setup_mobile_4.jpg">

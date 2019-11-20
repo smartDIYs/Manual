@@ -74,5 +74,5 @@ After confirming that the power of the Etcher Laser is switched off (the power s
 <img src="./images/hardware_setup_19.jpg">
 
 Turn on the Etcher Laser’s power switch. When it is properly turned on, the light will turn on and the exhaust fan on the backside of the device will start to run.
-
+<img src="./images/hardware_setup_21.jpg">
 <img src="./images/hardware_setup_20.jpg">
