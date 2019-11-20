@@ -73,7 +73,7 @@ Etcher Laser の電源が入っているか確認し、ソフトウェアを立�
 
 <img src="./images/first_processing_pc_15.jpg">
 
-レーザーヘッドが原点に配置されていない場合やカメラマーカーが素材で隠れている場合は、正しく表示されません（カメラの位置合わせ用のシールが画面に写っていない場合が正常です）。
+レーザーヘッドが原点に配置されていない場合やカメラマーカーが素材で隠れている場合は、エラーが表示されます。詳しくは<a target="_blank" href="https://support.smartdiys.com/hc/ja/articles/360036039551">カメラ使用（キャプチャ）時にエラーがでる</a>をご覧ください。
 
 <img src="./images/first_processing_pc_16.jpg">
 

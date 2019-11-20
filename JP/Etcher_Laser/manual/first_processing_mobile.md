@@ -66,7 +66,7 @@
 <img src="./images/first_processing_mobile_13.jpg">
 <img src="./images/first_processing_mobile_14.jpg">
 
-レーザーヘッドが原点に配置されていない場合やカメラマーカーが素材で隠れている場合、正しく表示されません（カメラマーカーが画面に写っていない場合が正常です）。
+レーザーヘッドが原点に配置されていない場合やカメラマーカーが素材で隠れている場合は、エラーが表示されます。詳しくは<a target="_blank" href="https://support.smartdiys.com/hc/ja/articles/360036039551">カメラ使用（キャプチャ）時にエラーがでる</a>をご覧ください。
 <img src="./images/first_processing_mobile_15.jpg">
 
 
