@@ -7,15 +7,15 @@ The lens attached to the laser head needs to be cleaned regularly because dust a
 3. Loosen the height adjustment screw and remove the laser head from the laser head fixing unit.
 <img src="./images/maintenace_2.jpg">
 
-4. Use a lens cleaner for the camera to clean the lens part of the laser head. * Use a cleaner that does not contain alcohol. Never touch the lens with your hand.
+4. Use a lens cleaning cloth (such as for a camera lens) to clean the lens part of the laser head. * Use a cleaner that does not contain alcohol. Never touch the lens with your hand.
 <img src="./images/maintenace_3.jpg">
 
-5. Use a cloth to wipe away any dirt other than the lens.
+5. Use a cloth to wipe away any other dirt around the lens or on the laser head.
 
 6. After cleaning, attach the laser head to the laser head fixing unit and connect the cable to the connector.
 
 ## Processing bed maintenance
-When processing wood, paper, etc., spear generated from the material may adhere to the processing bed.
+When processing wood, paper, etc., an imprint generated from the material may adhere to the processing bed.
 <img src="./images/maintenace_4.jpg">
 
 It can be wiped clean by using a wipe containing alcohol.
@@ -33,7 +33,7 @@ If the camera does not capture the processing bed well, clean the camera lens an
 Use a camera lens cleaner to clean the camera attached to the door. * Never touch the lens with your hand.
 <img src="./images/maintenace_8.jpg">
 
-If the camera marker is shaved, attach a spare sticker over the mark. * Please stick so that the sticker does not bend.
+If the camera marker is torn or damaged, attach a spare sticker over the mark. * Please attach it so the sticker is flat and not bend or curled.
 <img src="./images/maintenace_9.jpg">
 
 <img src="./images/maintenace_10.jpg">

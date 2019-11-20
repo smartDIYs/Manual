@@ -4,12 +4,13 @@ Open the particle filter box. Take out the parts and the particle filter body.
 <img src="./images/Particle_Filter_2.jpg">
 <img src="./images/Particle_Filter_3.jpg">
 <img src="./images/Particle_Filter_4.jpg">
-Install a spare fuse. Use a screwdriver as shown in the picture to remove the fuse socket from the power switch on the left side of the dust collector.
+
+To install a spare fuse, use a screwdriver as shown in the picture above to remove the fuse socket from the power switch on the left side of the dust collector.
 
 
 <img src="./images/Particle_Filter_5.jpg">
 
-The socket is originally equipped with a fuse. Store the black cylinder part with a spare fuse.
+The socket is originally equipped with a fuse. Store the black cylinder part with the spare fuse. If you already have a spare fuse, store this one as well. Replace the fuse socket.
 
 <img src="./images/Particle_Filter_6.jpg">
 

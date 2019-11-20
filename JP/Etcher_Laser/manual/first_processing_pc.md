@@ -1,5 +1,5 @@
 セットアップが終了したら素材の加工に入ります。
-下記手順が上手くいかない場合は<a target="_blank" href="https://support.smartdiys.com/hc/ja/sections/360000529552">トラブルシューティング</a>をご確認ください。
+下記手順が上手くいかない場合は<a target="_blank" href="https://support.smartdiys.com/hc/ja/sections/360007252192">トラブルシューティング</a>をご確認ください。
 
 <div class="iframe-content">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Z1rQ01iXFN0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -55,7 +55,7 @@ Etcher Laser の電源が入っているか確認し、ソフトウェアを立�
 
 <img src="./images/first_processing_pc_22.gif">
 
-「位置確認」をクリックし「位置確認」を解除します。「原点復帰」をクリックしレーザーヘッドを原点に移動させてください。
+「位置確認」をクリックし位置確認を解除します。「原点復帰」をクリックしレーザーヘッドを原点に移動させてください。
 
 ## データの読み込み、位置合わせ
 「アイテムを追加」をクリックし、データの読み込みを行います。
@@ -65,7 +65,7 @@ Etcher Laser の電源が入っているか確認し、ソフトウェアを立�
 
 <img src="./images/first_processing_pc_12.jpg">
 
-カメラアイコンをクリックすると、素材の厚みを入力するダイアログが表示されます（Etcher Laserのドアが閉じている場合はカメラアイコンはクリックできません。カメラの操作は必ずドアを完全に開けてください）。数値を入力しOKをクリックすると、グラフィックエリアに素材が表示されます。
+カメラアイコンをクリックすると、素材の厚みを入力するダイアログが表示されます（Etcher Laserのドアが閉じている場合はカメラアイコンはクリックできません。カメラの操作は必ずドアを完全に開けて行ってください）。数値を入力しOKをクリックすると、グラフィックエリアに素材が表示されます。
 
 <img src="./images/first_processing_pc_13.jpg">
 

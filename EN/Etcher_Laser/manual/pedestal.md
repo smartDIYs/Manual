@@ -1,7 +1,7 @@
 ## How to use the removable bottom
-Remove the bottom tray from the Etcher Laser. Prepare a protective plate or covering so that the work table is not damaged by the laser. It is recommended to use a non-combustible material (dark color that is difficult to reflect laser light) such as an iron plate or stainless steel plate for protection. Also, when removing the bottom, be sure to always wear the included protective glasses for processing.
+Remove the bottom tray from the Etcher Laser. Prepare a protective plate or covering so that the work table is not damaged by the laser. It is recommended to use a non-combustible material (that is a dark color that is difficult to reflect laser light) such as an iron plate or stainless steel plate for protection. Also, when removing the bottom, be sure to always wear the included protective glasses for processing.
 
-If the material does not reach the bottom of the Etcher Laser, the value set when capturing with the camera is not the thickness of the material. Measure the value from the bottom of the Etcher Laser to the surface of the material and enter minus 〇mm.
+ If the material does not reach the bottom of the Etcher Laser, the value set when capturing with the camera is not the same as the thickness of the material. Measure from the bottom of the Etcher Laser to the surface of the material and enter that value as a negative. For example, if the top of the material is 10 mm away from the bottom of the Etcher Laser (the distance represented by the red arrows in the image below), you would enter “-10 mm” as the material thickness.
 <img src="./images/Pedestal_7.jpg">
 
 ## How to use the pedestal
