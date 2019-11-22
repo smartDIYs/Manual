@@ -77,7 +77,7 @@
 
 
 ## パラメータ設定、加工開始
-パラメータの設定をします。アプリ画面下部のアイテム（丸）をタップすると、パラメータ設定ダイアログが表示されます。今回は、スピードを1500、パワーを50、回数を1に設定します（パラメータの詳しい説明は、[SmartDIYs Creator マニュアル パラメータ設定](https://www.smartdiys.com/manual/smartdiys-creator-parameter/)をご覧ください）。
+パラメータの設定をします。アプリ画面下部のアイテム（丸）をタップすると、パラメータ設定ダイアログが表示されます。今回は、スピードを1500、パワーを50、回数を1に設定します（パラメータの詳しい説明は、[SmartDIYs Creator マニュアル パラメータ設定](https://www.smartdiys.com/manual/el-mobile-parameter/)をご覧ください）。
 <img src="./images/first_processing_mobile_18.jpg">
 
 

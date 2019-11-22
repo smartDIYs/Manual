@@ -73,10 +73,10 @@ Adjust the size of the design and place it on the material. You can adjust the p
 <img src="./images/first_processing_mobile_17.jpg">
 
 ## Set parameters and start processing
-Next, set the parameters for the process. Tap on the item (circle shape) in the bottom area of the screen to display the dialog for parameter setting. This time, set 1500 for the speed, 50 for the power, and 1 for the number of processing times. (Please refer to the page <a target="_blank" href="https://manual.smartdiys.cc/smartdiys-creator-parameter-settings/">“SmartDIYs Creator ManualParameter settings” </a>for further information on the parameters.)
+Next, set the parameters for the process. Tap on the item (circle shape) in the bottom area of the screen to display the dialog for parameter setting. This time, set 1500 for the speed, 50 for the power, and 1 for the number of processing times. (Please refer to the page <a target="_blank" href="https://manual.smartdiys.cc/el-mobile-parameter-settings/">“SmartDIYs Creator ManualParameter settings” </a>for further information on the parameters.)
 <img src="./images/first_processing_mobile_18.jpg">
 
-After that, close the lid of the Etcher Laser and tap on the “START” button. A dialog with the estimated processing time will appear, so confirm and click the “OK” button to proceed.
+After that, close the lid of the Etcher Laser and tap on the “START” button. A dialog with the estimated processing time will appear, so confirm and click the “START” button to proceed.
 <img src="./images/first_processing_mobile_19.jpg">
 <img src="./images/first_processing_mobile_20.jpg">
 
@@ -86,4 +86,4 @@ The button on the bottom right of the lid on the device will turn to green, so p
 <img src="./images/first_processing_mobile_22.jpg">
 <img src="./images/first_processing_pc_20.jpg">
 
-Further details on the application are in the manuals:<a target="_blank" href="https://manual.smartdiys.cc/smartdiys-creator-product-outline/">Etcher Laser app</a>
+Further details on the application are in the manuals:<a target="_blank" href="https://manual.smartdiys.cc/el-mobile-product-outline/">Etcher Laser app manual</a>
