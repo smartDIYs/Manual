@@ -1,7 +1,7 @@
-Download the application and connect with Etcher Laser. You cannot connect to the Internet while EtcherLaser is connected.
+Download the application and connect to your Etcher Laser. You cannot connect to the Internet while EtcherLaser is connected.
 
 ## Application Download
-Firstly, download the application (Etcher Laser). Click the link below to download it.
+First, download the application (EtcherLaser). Click the link below to download it.
 
 - [Etcher Laser Installation (App store)](https://apps.apple.com/jp/app/etcherlaser/id1465876344)
 
@@ -27,10 +27,10 @@ Please follow the instructions on the app screen.
 <img src="./images/software_setup_mobile_7.jpg">
 <img src="./images/software_setup_mobile_8.jpg">
 
-Tap "Connect" and select a processing machine to connect Etcher Laser to your smartphone.
+Tap "Connect" and select a processing machine to connect the Etcher Laser to your smartphone.
 <img src="./images/software_setup_mobile_9.jpg">
 <img src="./images/software_setup_mobile_10.jpg">
 <img src="./images/software_setup_mobile_13.jpg">
 
 ## Connect to EtcherLaser via Wi-Fi router
-If you have a Wi-Fi router in your environment, you can connect to EtcherLaser via this router. See <a href="https://manual.smartdiys.cc/el-mobile-connection-to-machine/" target="_blank">“Connection to machine”</a> for the setting method.
+If you have a Wi-Fi router in your environment, you can connect to the EtcherLaser via this router. See <a href="https://manual.smartdiys.cc/el-mobile-connection-to-machine/" target="_blank">“Connection to machine”</a> for instructions.

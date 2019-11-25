@@ -1,7 +1,7 @@
-After the setup is complete, the material will be processed. If the following steps do not work, please check <a target="_blank" href="https://support.smartdiys.cc/hc/en-us/sections/360006255294-Problems-about-Etcher-Laser">troubleshooting.</a>
+After the setup is complete, the material can be processed. If the following steps do not work, please check <a target="_blank" href="https://support.smartdiys.cc/hc/en-us/sections/360006255294-Problems-about-Etcher-Laser">troubleshooting.</a>
 
 ## Preparation of material
-Please prepare the material. Since there is a place to input the thickness of the material in the later process, please check the thickness of the material in advance.
+Please prepare your material. Since there is a place to input the thickness of the material later in the process, please check the thickness of the material in advance.
 
 <img src="./images/first_processing_pc_1.jpg">
 
@@ -11,7 +11,7 @@ Use the USB cable enclosed with the device to connect the Etcher Laser to your P
 <img src="./images/software_setup_pc.jpg">
 
 ## Launch the software and place the material
-Check that the Etcher Laser is turned on and launch the software. When you start the application for the first time, follow the on-screen instructions to configure the main unit. If you have already set it, check that it is set to Setting-> User Setting-> ModelType Etcher Laser, and check the LaserType.
+Check that the Etcher Laser is turned on and launch the software. When you start the application for the first time, follow the on-screen instructions to configure the main unit. If you have already set it up, check that it is set to Settings-> User Settings-> Model Name Etcher Laser, and check the laser type.
 
 <img src="./images/first_processing_pc_2.png">
 
@@ -46,7 +46,7 @@ Loosen the screw for height adjustment on the laser head, and slide the laser ve
 
 <img src="./images/first_processing_pc_10.png">
 
-To prevent the laser head from tilting, close the height adjustment screw while keeping the top of the laser head in close contact with the laser head fixing unit. If the laser head is tilted, it may cause a shift in the machining position.
+To prevent the laser head from tilting, close the height adjustment screw while keeping the top of the laser head in close contact with the laser head fixing unit. If the laser head is tilted, it may cause a shift in the processing position.
 <img src="./images/first_processing_pc_21.jpg">
 
 <img src="./images/first_processing_pc_22.gif">
@@ -60,7 +60,7 @@ Click the “Add Item” button to import your data. There are several ways to i
 
 <img src="./images/first_processing_pc_12.jpg">
 
-Clicking on the camera icon will bring up a dialog where you can enter the thickness of the material (you cannot click on the camera icon if the Etcher Laser door is closed. Be sure to open the door completely). Enter a numerical value and click OK. The material is displayed in the graphic area.
+Clicking on the camera icon will bring up a dialog where you can enter the thickness of the material (you cannot click on the camera icon if the Etcher Laser door is closed. Be sure to open the door completely). Enter a numerical value and click OK. The material is then displayed in the software.
 
 <img src="./images/first_processing_pc_13.jpg">
 
@@ -68,7 +68,7 @@ Clicking on the camera icon will bring up a dialog where you can enter the thick
 
 <img src="./images/first_processing_pc_15.jpg">
 
-If the laser head is not located at the origin or the camera marker is hidden by the material, it will not be displayed correctly (it is normal if the camera alignment sticker is not visible on the screen).
+An error will be displayed if the laser head is not located at the origin or if any camera marker is hidden behind the material. For details, see “<a target="_blank" href="https://support.smartdiys.cc/hc/en-us/articles/360039256373">An error occurs when using the camera (capture)</a>”.
 
 <img src="./images/first_processing_pc_16.png">
 

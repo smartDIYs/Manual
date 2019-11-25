@@ -1,7 +1,7 @@
-After the setup is complete, the material will be processed. If the following steps do not work, please check <a target="_blank" href="https://support.smartdiys.cc/hc/en-us/sections/360006255294-Problems-about-Etcher-Laser">troubleshooting.</a>
+After the setup is complete, the material can be processed. If the following steps do not work, please check <a target="_blank" href="https://support.smartdiys.cc/hc/en-us/sections/360006255294-Problems-about-Etcher-Laser">troubleshooting.</a>
 
 ## Preparation of material
-Please prepare the material. Since there is a place to input the thickness of the material in the later process, please check the thickness of the material in advance.
+Please prepare your material. Since there is a place to input the thickness of the material later in the process, please check the thickness of the material in advance.
 
 <img src="./images/first_processing_pc_1.jpg">
 
@@ -18,10 +18,10 @@ Place the material in the center of the work area. When placing the material, DO
 
 <img src="./images/first_processing_pc_4.jpg">
 
-Tap the menu on the top right of the app screen and tap “Position”.
+Open the menu on the top right of the app screen and tap “Position”.
 <img src="./images/first_processing_mobile_4.jpg">
 
-A dialog to return the laser head to the origin appears. Tap OK to move the laser head to the origin (upper left).
+A dialog to return the laser head to the origin will appear. Tap OK to move the laser head to the origin (upper left).
 <img src="./images/first_processing_mobile_5.jpg">
 
 The laser head will move to a certain position when you drag the image of the laser head in the screen to the position you would like to set and tap on “Move”. Use this function to move the laser head so it is above the material.
@@ -42,7 +42,7 @@ Loosen the screw for height adjustment on the laser head, and slide the laser ve
 
 <img src="./images/first_processing_pc_10.png">
 
-To prevent the laser head from tilting, close the height adjustment screw while keeping the top of the laser head in close contact with the laser head fixing unit. If the laser head is tilted, it may cause a shift in the machining position.
+To prevent the laser head from tilting, close the height adjustment screw while keeping the top of the laser head in close contact with the laser head fixing unit. If the laser head is tilted, it may cause a shift in the processing position.
 <img src="./images/first_processing_pc_21.jpg">
 
 <img src="./images/first_processing_pc_22.gif">
@@ -58,14 +58,14 @@ There are several ways to import data and different types of data, but for this 
 <img src="./images/first_processing_mobile_10.jpg">
 <img src="./images/first_processing_mobile_11.jpg">
 
-Tap the menu and tap “Capture”.
+Open the menu and select “Capture”.
 <img src="./images/first_processing_mobile_12.jpg">
 
 Dialog to enter the thickness of the material is displayed. Enter a numerical value and click OK. The material is displayed in the graphic area.
 <img src="./images/first_processing_mobile_13.jpg">
 <img src="./images/first_processing_mobile_14.jpg">
 
-Or when the camera marker the laser head is not located at the origin is hidden in the material, it does not display correctly (if the camera marker is not reflected in the screen is normal).
+An error will be displayed if the laser head is not located at the origin or if any camera marker is hidden behind the material. For details, see “<a target="_blank" href="https://support.smartdiys.cc/hc/en-us/articles/360039256373">An error occurs when using the camera (capture)</a>”.
 <img src="./images/first_processing_mobile_15.jpg">
 
 Adjust the size of the design and place it on the material. You can adjust the postion of the design when you tap on the circle shape and drag it to a position, and also you can change the size and the angle by dragging the arrow mark. Plus, you can zoom in/out the display area by pinching in/out the graphic area.
