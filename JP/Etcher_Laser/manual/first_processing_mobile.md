@@ -89,6 +89,7 @@ Etcher Laserのドアをしめ、メニューをタップし、「スタート�
 
 Etcher Laserの右下、ボタンが緑色に点滅します。そのボタンを長押しすることで加工が開始されます。
 ※ドアが開いている状態で加工が開始された場合、レーザーヘッドは動きますが、レーザーは照射されません。
+※底部取り外しモデルをご使用の方で、底部を取り外さずに加工する場合は保護メガネを使用する必要はありません。
 <img src="./images/first_processing_mobile_21.jpg">
 <img src="./images/first_processing_mobile_22.jpg">
 

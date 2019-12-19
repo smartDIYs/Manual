@@ -84,6 +84,7 @@ Next, set the parameters for the process. Click the item (circle) on the right s
 
 After that, close the lid of the Etcher Laser and click the “START” button. A dialog with precautions will appear, so confirm and click the “OK” button to proceed. DO NOT leave the device while processing is in progress.
 *If you start processing while the lid is open, the laser head will move but the laser will not irradiate.
+*When processing without removing the bottom, it is not necessary to use protective glasses.
 
 <img src="./images/first_processing_pc_19.jpg">
 

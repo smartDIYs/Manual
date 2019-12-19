@@ -30,6 +30,7 @@ Etcher Laserのドアと加工ベッド引き出しを固定しているテー�
 <img src="./images/hardware_setup_7.jpg">
 
 Etcher Laserのドアを開け、内部の梱包材をすべて取り出します。パーツが入っている梱包材は慎重に取り出してください。
+（通常モデルは保護メガネは付属していません）
 
 <img src="./images/hardware_setup_8.jpg">
 
