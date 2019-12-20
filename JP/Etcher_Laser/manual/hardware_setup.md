@@ -42,6 +42,7 @@ Etcher Laserのドアを開け、内部の梱包材をすべて取り出しま�
 <img src="./images/hardware_setup_9-1.jpg">
 
 梱包材からレーザーヘッドを取り出してください。この時、レーザーヘッド底部のレンズには絶対に触らないでください。
+（通常モデルは保護メガネは付属していません）
 
 <img src="./images/hardware_setup_11.jpg">
 
