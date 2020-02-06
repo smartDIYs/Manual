@@ -39,7 +39,7 @@
 <img src="./images/hardware_setup_11.jpg">
 <img src="./images/first_processing_pc_9.jpg">
 
-高さ調整用ネジを緩めレーザーヘッドを上下にスライドさせ、高さ調整用治具と接触させます。
+レーザーヘッドの左右に取り付いている高さ調整用ネジを緩めレーザーヘッドを上下にスライドさせ、高さ調整用治具と接触させます。
 <img src="./images/first_processing_pc_10.jpg">
 <img src="./images/first_processing_pc_8.png">
 
