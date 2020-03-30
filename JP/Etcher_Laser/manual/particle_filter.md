@@ -30,3 +30,19 @@
 
 緑色のランプが点灯します。ランプ隣のつまみを回すことで集塵機が作動し、パワーを調節できます。
 <img src="./images/Particle_Filter_13.jpg">
+
+## フィルタ交換
+ダクトを取り外し、集塵機の上蓋を外します。
+<img src="./images/Particle_Filter_14.jpg">
+<img src="./images/Particle_Filter_15.jpg">
+
+写真の赤枠示す部分がフィルタです。フィルタを上に引き上げ、集塵機本体から外します。
+<img src="./images/Particle_Filter_16.jpg">
+
+このフィルタは3つのフィルタを組み合わせたものです。上から順にフィルタを外すことができます（上から、プレフィルタ、中性能フィルタ、活性炭フィルタ）。汚れたフィルタを外し交換してください。
+<img src="./images/Particle_Filter_17.jpg">
+<img src="./images/Particle_Filter_18.jpg">
+
+プレフィルタは水洗いすることができます。水洗い後、日陰で乾かしてください。
+
+フィルタを組み合わせ、集塵機に取り付けし、上蓋を取り付けます。
