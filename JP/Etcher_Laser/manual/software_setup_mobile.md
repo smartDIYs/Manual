@@ -57,5 +57,7 @@ EtcherLaserは2.4GHzのみ対応しております。ルータに接続する場
 1. EtcherLaserと接続し、設定画面の「Wi-Fi」をクリックします。
 2. お使いのルータのWi-FiのSSIDおよびパスワードを設定します。お間違いのないよう注意してください。
 3. 「書き込み」をクリックします。
-4. EtcherLaserを再起動します。
 <img src="./images/software_setup_mobile_12.jpg">
+4. EtcherLaserを再起動します。
+5. STAモードでの接続が正常に完了すると、本体のWi-Fiランプが点灯します。
+<img src="./images/software_setup_mobile_13.jpg">
