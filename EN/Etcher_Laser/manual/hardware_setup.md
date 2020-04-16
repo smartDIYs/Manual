@@ -3,6 +3,14 @@ Let’s start setting up your Etcher Laser. Please refer to the pictures below f
 
 <img src="./images/parts_2.jpg">
 
+**Error light**: Lights up in red when an error occurs in the machine body.
+
+**Wi-Fi light**: Lights when Wi-Fi is connected to EtcherLaser in STA mode. * Please refer to <a href="https://manual.smartdiys.cc/el-mobile-connection-to-machine/">this page</a> for Connect to EtcherLaser via Wi-Fi router.
+
+**Stop button**: Used to stop the operation of the main unit. Lights red when the button operation is valid. Press and hold this button to stop the processing machine. * Operation can also be stopped from software.
+
+**Start button**: Used when operating from a smartphone application. Lights up green when the button is enabled. Lights when processing data is sent to the processing machine. Pressing and holding this button starts processing.
+
 ## Unpacking and setting up the device
 There will be one box for the main device and 1 - 3 boxes for accessories (optional).
 
