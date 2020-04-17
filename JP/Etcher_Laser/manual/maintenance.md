@@ -12,7 +12,9 @@
 4.レーザーヘッドのレンズ部分は、カメラ用レンズクリーナーなどを使用してクリーニングをしてください。
 ※クリーナーはアルコールを含まないものをご使用ください。また絶対にレンズには手で触らないでください
 <img src="./images/maintenace_3.jpg">
-<iframe src="//www.youtube-nocookie.com/embed/UZlDxzRyJNw" width="560" height="315" frameborder="0" allowfullscreen=""></iframe>
+<div class="iframe-content">
+    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/UZlDxzRyJNw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 5.レンズ以外の汚れた部分は、布等で拭き取ってください。
 
