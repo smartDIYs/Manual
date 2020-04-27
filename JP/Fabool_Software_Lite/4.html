@@ -1,8 +1,4 @@
-<div class="panel-body">
-<h1>SVG加工データの作成方法</h1>
-
-
-<h3>SVG加工データの作成方法</h3>
+<h2>SVG加工データの作成方法</h2>
 <p><strong></strong></p><strong>
 <p style="margin-bottom:3em;">この章では、外部の描画ソフトウェアを使い、FABOOL Software liteに取り込むためのSVG加工データを作成する方法とその際の注意点などを説明します。</p>
 </strong><p><strong></strong><br>
@@ -10,7 +6,7 @@
 <p style="margin-bottom:3em;">以下では、無料描画ソフトInkscapeを例に解説します。</p>
 </strong><p><strong></strong></p>
 <p><strong></strong></p><strong>
-<h4>線・図形</h4>
+<h3>線・図形</h3>
 </strong><p><strong></strong></p>
 <p>左カラムのペンツール、矩形ツール、円/弧ツールなどを使い、好きな形を作図します。<br>
 複数の線や図形がある場合には、ストロークの色を使い分けることによって、FABOOL Laser Miniでの加工時に加工パラメーター（レーザー出力、レーザーヘッド移動速度）を別々に設定することができます。</p>
@@ -21,7 +17,7 @@
 <p>FABOOL Software liteで読み込んだ場合</p>
 <div style="margin-bottom:3em;"><img src="./images/4/s_17.png" alt="読み込み後" class="img-responsive"></div>
 <p><strong></strong></p><strong>
-<h4>文字</h4>
+<h3>文字</h3>
 </strong><p><strong></strong><br>
 <strong></strong></p><strong>
 <p>FABOOL Software liteでは、SVG内のテキスト要素をそのまま読み込むことはできませんが、以下のようにテキストを「パス化」することによって、読み込むことが可能になります。</p>
@@ -38,7 +34,7 @@
 <p>FABOOL Software liteで読み込むとこのようになります。</p>
 <div style="margin-bottom:3em;"><img src="./images/4/s_18.png" alt="読み込み後" class="img-responsive"></div>
 <p><strong></strong></p><strong>
-<h4>図形の塗りつぶし</h4>
+<h3>図形の塗りつぶし</h3>
 </strong><p><strong></strong></p>
 <p>通常は、図形の外枠(ストローク)に沿って、加工を行い、塗りつぶし(フィル)が設定されていても加工は行いません。<br>
 図形の塗りつぶしを行う場合には、Inkscapeに塗りつぶしの機能を追加でインストールすることによって、塗りつぶし加工を行うことができます。<br>
@@ -62,20 +58,20 @@
 <p>「Hatch angle：角度」を45、「Hatch spacing：間隔」を3、「Crosshatch?：クロス処理」をチェックありに設定した場合は以下になります。</p>
 <div style="margin-bottom:3em;"><img src="./images/4/24.jpg" alt="クロス処理あり" class="img-responsive"></div>
 <p><strong></strong></p><strong>
-<h4>Adobe Illustratorでの図形の塗りつぶし</h4>
+<h3>Adobe Illustratorでの図形の塗りつぶし</h3>
 </strong><p><strong></strong></p>
 <p style="margin-bottom:3em;">Adobe Illustratorでの図形の塗りつぶし方法については、<a href="http://vectorboom.com/load/tutorials/effects/how_to_create_vector_hatching_and_embossed_pattern_in_adobe_illustrator/3-1-0-341" target="_blank">こちらを参考にしてください</a>。</p>
-<h4>画像のSVGファイルへの埋め込み</h4>
+<h3>画像のSVGファイルへの埋め込み</h3>
 <p style="margin-bottom:3em;">旧ソフト（Smart Laserソフトウェア）では可能だった「画像のSVGファイル埋め込み」は、FABOOL Software liteでは正しく読み込めませんのでご注意ください。<br>
 ⇒FABOOL Software liteでは、画像は直接読み込むことが可能になりました。</p>
-<h4>画像をベクターデータに変更</h4>
+<h3>画像をベクターデータに変更</h3>
 <p style="margin-bottom:1em;">画像はFABOOL Software liteに直接取り込むことによって、通常はラスター加工で処理されますが、意図的にベクター加工で画像を加工することも可能です。<br>
 画像をベクター加工データに変更するには、以下のオンラインサービスを使用します。</p>
 <p><a href="http://picsvg.com/">PicSVG</a></p>
 <div style="margin-bottom:3em;"><img src="./images/4/111.jpg" alt="PicSVG" class="img-responsive"></div>
 <p>なお、上記サービスを使用して変換したSVGファイルには、外形(ストローク)が設定されておりませんので、Inkscapeなどを使用し、ストロークに色を設定してください。</p>
 <div style="margin-bottom:3em;"><img src="./images/4/26.jpg" alt="SVGファイル" class="img-responsive"></div>
-<h4>dpiについて</h4>
+<h3>dpiについて</h3>
 <p>SVGファイルを読み込むときのdpiによってサイズが変化してしまいます。SVGファイルを作成したときのdpiで読み込むことによって正しいサイズで加工することができます。<br>
 SVGファイルを作成したソフトウェアによって、以下のdpiになります。</p>
 <ul>
@@ -86,5 +82,3 @@ SVGファイルを作成したソフトウェアによって、以下のdpiに�
 <li>Qt lib：90dpi</li>
 <li>Microsoft：75dpi</li>
 </ul>
-
-</div> <!-- end panel-body -->
