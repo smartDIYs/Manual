@@ -1,77 +1,73 @@
-<h2>SVG加工データの作成方法</h2>
-<p><strong></strong></p><strong>
-<p style="margin-bottom:3em;">この章では、外部の描画ソフトウェアを使い、FABOOL Software liteに取り込むためのSVG加工データを作成する方法とその際の注意点などを説明します。</p>
-</strong><p><strong></strong><br>
-<strong></strong></p><strong>
-<p style="margin-bottom:3em;">以下では、無料描画ソフトInkscapeを例に解説します。</p>
-</strong><p><strong></strong></p>
-<p><strong></strong></p><strong>
-<h3>線・図形</h3>
-</strong><p><strong></strong></p>
+<p>この章では、外部の描画ソフトウェアを使い、FABOOL Software liteに取り込むためのSVG加工データを作成する方法とその際の注意点などを説明します。</p>
+<p>以下では、無料描画ソフトInkscapeを例に解説します。</p>
+
+
+<h2>線・図形</h2>
+
 <p>左カラムのペンツール、矩形ツール、円/弧ツールなどを使い、好きな形を作図します。<br>
 複数の線や図形がある場合には、ストロークの色を使い分けることによって、FABOOL Laser Miniでの加工時に加工パラメーター（レーザー出力、レーザーヘッド移動速度）を別々に設定することができます。</p>
-<div style="margin-bottom:3em;"><img src="./images/4/fb_mini_soft_20.jpg" alt="線・図形" class="img-responsive"></div>
+<div><img src="./images/4/fb_mini_soft_20.jpg" alt="線・図形" class="img-responsive"></div>
 <p>なお、以下のように、図形に塗りつぶし(フィル)が設定されている場合でも、FABOOL Softwareで読み込んだ場合には反映されません。外枠(ストローク)のみデータが反映されます。<br>
 ※塗りつぶした図形を加工する方法は後段（「図形の塗りつぶし」をご参照）にて説明します。</p>
-<div style="margin-bottom:3em;"><img src="./images/4/fb_mini_soft_21.jpg" alt="フィル設定" class="img-responsive"></div>
+<div><img src="./images/4/fb_mini_soft_21.jpg" alt="フィル設定" class="img-responsive"></div>
 <p>FABOOL Software liteで読み込んだ場合</p>
-<div style="margin-bottom:3em;"><img src="./images/4/s_17.png" alt="読み込み後" class="img-responsive"></div>
-<p><strong></strong></p><strong>
-<h3>文字</h3>
-</strong><p><strong></strong><br>
-<strong></strong></p><strong>
+<div><img src="./images/4/s_17.png" alt="読み込み後" class="img-responsive"></div>
+
+<h2>文字</h2>
+
+
 <p>FABOOL Software liteでは、SVG内のテキスト要素をそのまま読み込むことはできませんが、以下のようにテキストを「パス化」することによって、読み込むことが可能になります。</p>
-</strong><p><strong></strong></p>
+
 <p>テキストツールで文字列を入力します。<br>
 この時点では、文字はフィル（塗りつぶし）で表現されているため、FABOOL Software liteでは読み込むことが出来ません。</p>
-<div style="margin-bottom:3em;"><img src="./images/4/fb_mini_soft_22.jpg" alt="塗りつぶし状態" class="img-responsive"></div>
+<div><img src="./images/4/fb_mini_soft_22.jpg" alt="塗りつぶし状態" class="img-responsive"></div>
 <p>ストロークの色を設定します。<br>
 画面左下のフィルとストロークエリアをクリックし、フィルをなしにした上で、ストロークに好きな色を設定します。</p>
-<div style="margin-bottom:3em;"><img src="./images/4/fb_mini_soft_23.jpg" alt="フィルなし" class="img-responsive"></div>
-<div style="margin-bottom:3em;"><img src="./images/4/fb_mini_soft_24.jpg" alt="ストロークなし" class="img-responsive"></div>
+<div><img src="./images/4/fb_mini_soft_23.jpg" alt="フィルなし" class="img-responsive"></div>
+<div><img src="./images/4/fb_mini_soft_24.jpg" alt="ストロークなし" class="img-responsive"></div>
 <p>テキストを選択した状態で、「オブジェクトをパスへ」でテキストをパスに変更します。</p>
-<div style="margin-bottom:3em;"><img src="./images/4/fb_mini_soft_25.jpg" alt="テキストパスに変更" class="img-responsive"></div>
+<div><img src="./images/4/fb_mini_soft_25.jpg" alt="テキストパスに変更" class="img-responsive"></div>
 <p>FABOOL Software liteで読み込むとこのようになります。</p>
-<div style="margin-bottom:3em;"><img src="./images/4/s_18.png" alt="読み込み後" class="img-responsive"></div>
-<p><strong></strong></p><strong>
-<h3>図形の塗りつぶし</h3>
-</strong><p><strong></strong></p>
+<div><img src="./images/4/s_18.png" alt="読み込み後" class="img-responsive"></div>
+
+<h2>図形の塗りつぶし</h2>
+
 <p>通常は、図形の外枠(ストローク)に沿って、加工を行い、塗りつぶし(フィル)が設定されていても加工は行いません。<br>
 図形の塗りつぶしを行う場合には、Inkscapeに塗りつぶしの機能を追加でインストールすることによって、塗りつぶし加工を行うことができます。<br>
 まず、塗りつぶし機能を追加インストールします。</p>
-<ol style="margin-bottom:3em;">
+<ol>
 <li>eggbot_hatchを<a href="https://www.smartdiys.com/manual/wp-content/uploads/2015/02/eggbot_hatch.zip" target="_blank">こちらからダウンロードします</a>。</li>
 <li>eggbot_hatch.zipを展開し、「eggbot_hatch.py」と「eggbot_hatch.inx」を「C:\Program Files\Inkscape\share\extensions」(デフォルトパス)にコピーします。</li>
 </ol>
-<ol style="margin-bottom:3em;">※2018年6月現在、Inkscapeの最新ver.は0.92となっており、マニュアル内でお勧めしているハッチングを行うためのエクステンションEggbotの最新ver. 2.8となっております。しかし、両者の組み合わせで使用した場合に、正しくハッチング処理されない不具合があるようです。つきましては最新ver.ではなくInkscapeは0.48を、Eggbotは2.4.0をお使いいただくことをお勧めいたします。<p></p>
+<ol>※2018年6月現在、Inkscapeの最新ver.は0.92となっており、マニュアル内でお勧めしているハッチングを行うためのエクステンションEggbotの最新ver. 2.8となっております。しかし、両者の組み合わせで使用した場合に、正しくハッチング処理されない不具合があるようです。つきましては最新ver.ではなくInkscapeは0.48を、Eggbotは2.4.0をお使いいただくことをお勧めいたします。<p></p>
 <li><a href="https://inkscape.org/en/release/0.48/windows/32-bit/exe/dl/" target="_blank" rel="noopener"><span class="wysiwyg-font-size-large">Inkscape ・・・ver. 0.48</span></a></li>
 <li><a href="https://github.com/evil-mad/EggBot/releases/download/v2.4.0/EggBot_240A.exe" target="_blank" rel="noopener"><span class="wysiwyg-font-size-large">EggBot・・・・ver. 2.4.0</span></a></li>
 </ol>
 <p>塗りつぶし機能は、矩形や楕円などの図形に対して処理することができます。例として、以下の文字をパスに変更した図形に対して塗りつぶし処理を行います。</p>
-<div style="margin-bottom:3em;"><img src="./images/4/0.jpg" alt="塗りつぶし" class="img-responsive"></div>
+<div><img src="./images/4/0.jpg" alt="塗りつぶし" class="img-responsive"></div>
 <p>塗りつぶしを行うには、「エクステンション(N)」→「EggBot Contributed」→「Hatch fill」をクリックします。</p>
-<div style="margin-bottom:3em;"><img src="./images/4/14.jpg" alt="塗りつぶし手順" class="img-responsive"></div>
+<div><img src="./images/4/14.jpg" alt="塗りつぶし手順" class="img-responsive"></div>
 <p>以下の「Hatch angle：角度」、「Hatch spacing：間隔」、「Crosshatch?：クロス処理」で塗りつぶしの設定を行います。</p>
-<div style="margin-bottom:3em;"><img src="./images/4/23.jpg" alt="塗りつぶし設定" class="img-responsive"></div>
+<div><img src="./images/4/23.jpg" alt="塗りつぶし設定" class="img-responsive"></div>
 <p>「Hatch angle：角度」を0、「Hatch spacing：間隔」を5、「Crosshatch?：クロス処理」をチェックなしに設定した場合は以下になります。</p>
-<div style="margin-bottom:3em;"><img src="./images/4/15.jpg" alt="クロス処理なし" class="img-responsive"></div>
+<div><img src="./images/4/15.jpg" alt="クロス処理なし" class="img-responsive"></div>
 <p>「Hatch angle：角度」を45、「Hatch spacing：間隔」を3、「Crosshatch?：クロス処理」をチェックありに設定した場合は以下になります。</p>
-<div style="margin-bottom:3em;"><img src="./images/4/24.jpg" alt="クロス処理あり" class="img-responsive"></div>
-<p><strong></strong></p><strong>
-<h3>Adobe Illustratorでの図形の塗りつぶし</h3>
-</strong><p><strong></strong></p>
-<p style="margin-bottom:3em;">Adobe Illustratorでの図形の塗りつぶし方法については、<a href="http://vectorboom.com/load/tutorials/effects/how_to_create_vector_hatching_and_embossed_pattern_in_adobe_illustrator/3-1-0-341" target="_blank">こちらを参考にしてください</a>。</p>
-<h3>画像のSVGファイルへの埋め込み</h3>
-<p style="margin-bottom:3em;">旧ソフト（Smart Laserソフトウェア）では可能だった「画像のSVGファイル埋め込み」は、FABOOL Software liteでは正しく読み込めませんのでご注意ください。<br>
+<div><img src="./images/4/24.jpg" alt="クロス処理あり" class="img-responsive"></div>
+
+<h2>Adobe Illustratorでの図形の塗りつぶし</h2>
+
+<p>Adobe Illustratorでの図形の塗りつぶし方法については、<a href="http://vectorboom.com/load/tutorials/effects/how_to_create_vector_hatching_and_embossed_pattern_in_adobe_illustrator/3-1-0-341" target="_blank">こちらを参考にしてください</a>。</p>
+<h2>画像のSVGファイルへの埋め込み</h2>
+<p>旧ソフト（Smart Laserソフトウェア）では可能だった「画像のSVGファイル埋め込み」は、FABOOL Software liteでは正しく読み込めませんのでご注意ください。<br>
 ⇒FABOOL Software liteでは、画像は直接読み込むことが可能になりました。</p>
-<h3>画像をベクターデータに変更</h3>
+<h2>画像をベクターデータに変更</h2>
 <p style="margin-bottom:1em;">画像はFABOOL Software liteに直接取り込むことによって、通常はラスター加工で処理されますが、意図的にベクター加工で画像を加工することも可能です。<br>
 画像をベクター加工データに変更するには、以下のオンラインサービスを使用します。</p>
 <p><a href="http://picsvg.com/">PicSVG</a></p>
-<div style="margin-bottom:3em;"><img src="./images/4/111.jpg" alt="PicSVG" class="img-responsive"></div>
+<div><img src="./images/4/111.jpg" alt="PicSVG" class="img-responsive"></div>
 <p>なお、上記サービスを使用して変換したSVGファイルには、外形(ストローク)が設定されておりませんので、Inkscapeなどを使用し、ストロークに色を設定してください。</p>
-<div style="margin-bottom:3em;"><img src="./images/4/26.jpg" alt="SVGファイル" class="img-responsive"></div>
-<h3>dpiについて</h3>
+<div><img src="./images/4/26.jpg" alt="SVGファイル" class="img-responsive"></div>
+<h2>dpiについて</h2>
 <p>SVGファイルを読み込むときのdpiによってサイズが変化してしまいます。SVGファイルを作成したときのdpiで読み込むことによって正しいサイズで加工することができます。<br>
 SVGファイルを作成したソフトウェアによって、以下のdpiになります。</p>
 <ul>
