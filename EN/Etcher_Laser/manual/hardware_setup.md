@@ -68,10 +68,6 @@ Connect the connector part of the laser head fixing unit to the terminal part of
 
 <img src="./images/hardware_setup_16.jpg">
 
-
-Remove the cover of the camera on the inner wall of the lid. DO NOT touch the lens of the camera.
-<img src="./images/hardware_setup_17.jpg">
-
 For any occasion that you need to send your device to smartDIYs Inc. to get warranty service from us, please keep all the items sent together with the devices (boxes, packing materials, screws, plates, etc).
 
 ## Connecting the power supply
