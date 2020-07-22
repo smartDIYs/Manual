@@ -77,7 +77,7 @@ Etcher Laser の電源が入っているか確認し、ソフトウェアを立�
 
 <img src="./images/first_processing_pc_16.jpg">
 
-デザインを任意の大きさに調整し、素材の上に配置します。
+データを任意の大きさに調整し、素材の上に配置します。
 
 <img src="./images/first_processing_pc_17.jpg">
 
