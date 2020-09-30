@@ -3,7 +3,8 @@ Download the application and connect to your Etcher Laser. You cannot connect to
 ## Application Download
 First, download the application (EtcherLaser). Click the link below to download it.
 
-- [Etcher Laser Installation (App store)](https://apps.apple.com/jp/app/etcherlaser/id1465876344)
+- [Etcher Laser Installation (iOS)](https://apps.apple.com/jp/app/etcherlaser/id1465876344)
+- [Etcher Laser Installation (Android)](https://play.google.com/store/apps/details?id=com.smartdiys.etcherlaser)
 
 ## Etcher Laser and smartphone connection
 Next, tap the icon of the app “Etcher Laser”.
