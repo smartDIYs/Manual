@@ -7,7 +7,9 @@
 ## アプリケーションダウンロード
 下記リンクからダウンロードをしてください。
 
-[EtcherLaser ダウンロード (App store)](https://apps.apple.com/jp/app/etcherlaser/id1465876344?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A%20apple%2FEeAl%20%28iTunes%20Store%3A%20All%20New%20Applications%29&ign-mpt=uo%3D2)
+[EtcherLaser ダウンロード (iOS)](https://apps.apple.com/jp/app/etcherlaser/id1465876344)
+
+[EtcherLaser ダウンロード (Android)](https://play.google.com/store/apps/details?id=com.smartdiys.etcherlaser)
 
 ## Etcher Laserとスマートフォンの接続
 Etcher Laserのアイコンをタップします。
