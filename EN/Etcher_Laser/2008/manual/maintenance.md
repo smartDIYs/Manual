@@ -7,7 +7,7 @@ The lens attached to the laser head needs to be cleaned regularly because dust a
 3. Loosen the height adjustment screw and remove the laser head from the laser head fixing unit.
 <img src="./images/maintenace_2.jpg">
 
-4. Use a lens cleaning cloth (such as for a camera lens) to clean the lens part of the laser head. * Use a cleaner that does not contain alcohol. Never touch the lens with your hand.
+4. Use a lens cleaning cloth (such as for a camera lens) to clean the lens part of the laser head. * Never touch the lens with your hand.
 <img src="./images/maintenace_3.jpg">
 
 5. Use a cloth to wipe away any other dirt around the lens or on the laser head.
