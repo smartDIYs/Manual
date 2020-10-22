@@ -37,3 +37,14 @@ If the camera marker is torn or damaged, attach a spare sticker over the mark. *
 <img src="./images/maintenace_9.jpg">
 
 <img src="./images/maintenace_10.jpg">
+
+## Limit switch maintenance
+If an error message "Limit switch is in contact" is displayed, the limit switch may be dirty and needs to be cleaned.
+
+Limit switches are attached to the left side of the X-axis and the back of the main unit. The limit switch on the far right is usually not visible, so check it in the mirror.
+<img src="./images/limit-switch1.jpg">
+<img src="./images/limit-switch2.jpg">
+
+Clean the U-shaped part of the limit switch with a cotton swab.
+<img src="./images/limit-switch4.jpg">
+<img src="./images/limit-switch3.jpg">
