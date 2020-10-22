@@ -34,7 +34,6 @@ X軸フレーム、Y軸フレームのホイールが通る部分を、布など
 <img src="./images/maintenace_6.jpg">
 <img src="./images/maintenace_7.jpg">
 
-
 ## カメラ・カメラマーカーのメンテナンス
 カメラがうまく加工ベッドを撮影できない場合、カメラレンズのクリーニング及び、カメラマーカーの確認を行います。
 
@@ -47,3 +46,14 @@ X軸フレーム、Y軸フレームのホイールが通る部分を、布など
 <img src="./images/maintenace_9.jpg">
 
 <img src="./images/maintenace_10.jpg">
+
+## リミットスイッチのメンテナンス
+「リミットスイッチが接触しています」とエラーがでる場合、リミットスイッチに汚れが付着している可能性があるためクリーニングが必要です。
+
+リミットスイッチはX軸の左側と本体右奥に取り付いています。右奥のリミットスイッチは通常だと見えないので、鏡を使用して確認してください。
+<img src="./images/limit-switch1.jpg">
+<img src="./images/limit-switch2.jpg">
+
+綿棒などでリミットスイッチのコの字部分を清掃してください。
+<img src="./images/limit-switch4.jpg">
+<img src="./images/limit-switch3.jpg">
