@@ -50,11 +50,11 @@ Windowsをお使いの場合、インストール中にデバイスドライバ�
 
 デバイスドライバのインストールが完了したら、「完了」ボタンをクリックします。
 
-<img src="./images/win_install_12.png">
+<img src="./images/win_install_13.png">
 
 インストール完了画面が表示されるので、「完了」ボタンをクリックします。このとき「Run Application」にチェックが入っている場合は、自動的にソフトウェアが起動します。
 
-<img src="./images/win_install_13.png">
+<img src="./images/win_install_14.png">
 
 
  
