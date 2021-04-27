@@ -18,5 +18,8 @@ Etcher Laserの足を台座の四隅のくぼみに合わせて設置してく�
 <img src="./images/Pedestal_4.jpg">
 <img src="./images/Pedestal_5.jpg">
 
-Etcher Laserの底を取り外し、加工をしてください。
+Etcher Laserの底を取り外します。
 <img src="./images/Pedestal_6.jpg">
+
+底を取り外した場合でも、通常と同じ手順で高さ調整を行います。
+<img src="./images/Pedestal_8.jpg">
