@@ -1,3 +1,7 @@
+<div class="iframe-content">
+    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Fo1rLveU_ME" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ## レーザーヘッドのメンテナンス
 レーザーヘッドに取り付いてるレンズは、ホコリやヤニ汚れが付着するため定期的なクリーニングが必要です。
 
@@ -13,9 +17,6 @@
 ヤニなどは落ちにくいため、レンズに傷が付かないように気を付けながら、何度も拭いて落としてください。
 ※絶対にレンズには手で触らないよう、取り扱いについては十分注意してください
 <img src="./images/maintenace_3.jpg">
-<div class="iframe-content">
-    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/UZlDxzRyJNw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
 
 5.レンズ以外の汚れた部分は、布等で拭き取ってください。
 
