@@ -12,7 +12,10 @@
 
 <img src="./images/Particle_Filter_6.jpg">
 
-ダクト固定具をダクトに取り付け、Etcher Laser背面の排気口に差し込みます。
+ゴム板をEtcher Laser背面の排気口に取り付けます。
+<img src="./images/Particle_Filter_19.jpg">
+
+ダクト固定具をダクトに取り付け、排気口に差し込みます。
 <img src="./images/Particle_Filter_7.jpg">
 <img src="./images/Particle_Filter_8.jpg">
 
