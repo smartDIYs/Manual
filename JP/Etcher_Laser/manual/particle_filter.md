@@ -1,19 +1,9 @@
 ## セットアップ
-集塵機の箱を開けます。部品並びに集塵機本体を取り出してください。
+集塵機の箱を開けます。付属品並びに集塵機本体を取り出してください。
+付属品は、ダクト・ダクト固定具・ドライバー・ACケーブルです。
 <img src="./images/Particle_Filter_1.jpg">
 <img src="./images/Particle_Filter_2.jpg">
 <img src="./images/Particle_Filter_3.jpg">
-<img src="./images/Particle_Filter_4.jpg">
-予備のヒューズを取り付けます。写真のようにドライバーを使い、集塵機左側下部の電源スイッチ部分からヒューズソケットを取り外します。
-<img src="./images/Particle_Filter_5.jpg">
-
-ソケットにはもともとヒューズが取り付いています。予備のヒューズを黒い筒部分を収納してください。※予備のヒューズもすでに取り付いている方はご自身で保管してください。
-ヒューズソケットをもとに戻します。
-
-<img src="./images/Particle_Filter_6.jpg">
-
-ゴム板をEtcher Laser背面の排気口に取り付けます。
-<img src="./images/Particle_Filter_19.jpg">
 
 ダクト固定具をダクトに取り付け、排気口に差し込みます。
 <img src="./images/Particle_Filter_7.jpg">
